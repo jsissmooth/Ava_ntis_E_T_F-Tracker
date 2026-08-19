@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Avantis ETF Holdings Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:#0b0e14;--surface:#111520;--border:#1e2535;--text:#c8d0e0;
+      --muted:#4a5568;--accent:#3b82f6;--green:#22c55e;--green-bg:rgba(34,197,94,0.08);
+      --red:#ef4444;--red-bg:rgba(239,68,68,0.08);--yellow:#f59e0b;
+      --yellow-bg:rgba(245,158,11,0.07);--mono:'IBM Plex Mono',monospace;
+      --sans:'IBM Plex Sans',sans-serif;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:100vh}
+    header{display:flex;align-items:center;justify-content:space-between;
+      padding:20px 32px;border-bottom:1px solid var(--border);background:var(--surface)}
+    .logo{font-family:var(--mono);font-size:18px;font-weight:600;color:#fff;letter-spacing:.06em}
+    .logo span{color:var(--accent)}
+    .header-right{display:flex;align-items:center;gap:16px}
+    .date-badge{font-family:var(--mono);font-size:11px;color:var(--muted)}
+    .refresh-btn{padding:6px 14px;border:1px solid var(--border);background:transparent;
+      color:var(--text);font-family:var(--mono);font-size:11px;letter-spacing:.08em;
+      cursor:pointer;border-radius:3px;transition:border-color .2s,color .2s}
+    .refresh-btn:hover{border-color:var(--accent);color:var(--accent)}
+    .tab-bar{display:flex;gap:2px;padding:0 32px;background:var(--surface);
+      border-bottom:1px solid var(--border);overflow-x:auto}
+    .tab-btn{padding:12px 18px;background:transparent;border:none;color:var(--muted);
+      font-family:var(--mono);font-size:12px;letter-spacing:.08em;cursor:pointer;
+      white-space:nowrap;border-bottom:2px solid transparent;
+      transition:color .15s,border-color .15s;margin-bottom:-1px}
+    .tab-btn:hover{color:var(--text)}
+    .tab-btn.active{color:#fff;border-bottom-color:var(--accent)}
+    .etf-subtitle{
+      padding:10px 32px;
+      background:var(--surface);
+      border-bottom:1px solid var(--border);
+      font-family:var(--sans);
+      font-size:13px;
+      color:var(--muted);
+      letter-spacing:.02em;
+      min-height:38px;
+    }
+    .etf-subtitle strong{
+      color:var(--accent);
+      font-family:var(--mono);
+      font-size:12px;
+      margin-right:10px;
+    }
+    main{padding:24px 32px;max-width:1800px;margin:0 auto}
+    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:24px}
+    .stat{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:16px 18px}
+    .stat-label{font-size:10px;letter-spacing:.12em;color:var(--muted);text-transform:uppercase;margin-bottom:7px}
+    .stat-value{font-family:var(--mono);font-size:26px;font-weight:600;color:#fff;line-height:1}
+    .stat-value.green{color:var(--green)}.stat-value.red{color:var(--red)}.stat-value.yellow{color:var(--yellow)}
+    .toolbar{display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+    .filter-group{display:flex;border:1px solid var(--border);border-radius:4px;overflow:hidden}
+    .filter-btn{padding:6px 14px;background:transparent;border:none;color:var(--muted);
+      font-family:var(--mono);font-size:11px;letter-spacing:.08em;cursor:pointer;
+      transition:background .15s,color .15s;border-right:1px solid var(--border)}
+    .filter-btn:last-child{border-right:none}
+    .filter-btn.active{background:var(--accent);color:#fff}
+    .filter-btn:not(.active):hover{background:var(--border);color:var(--text)}
+    .period-group{display:flex;border:1px solid var(--border);border-radius:4px;overflow:hidden}
+    .period-btn{padding:6px 14px;background:transparent;border:none;color:var(--muted);
+      font-family:var(--mono);font-size:11px;letter-spacing:.08em;cursor:pointer;
+      transition:background .15s,color .15s;border-right:1px solid var(--border)}
+    .period-btn:last-child{border-right:none}
+    .period-btn.active{background:#1e3a5f;color:#60a5fa}
+    .period-btn:not(.active):hover{background:var(--border);color:var(--text)}
+    .search-input{padding:6px 12px;background:var(--surface);border:1px solid var(--border);
+      border-radius:4px;color:var(--text);font-family:var(--mono);font-size:12px;
+      width:220px;outline:none;transition:border-color .2s}
+    .search-input::placeholder{color:var(--muted)}
+    .search-input:focus{border-color:var(--accent)}
+    .diff-info{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--muted)}
+    .table-wrap{background:var(--surface);border:1px solid var(--border);border-radius:6px;overflow:auto}
+    table{width:100%;border-collapse:collapse;font-size:12px}
+    thead th{padding:11px 14px;text-align:left;font-family:var(--mono);font-size:10px;
+      letter-spacing:.1em;color:var(--muted);text-transform:uppercase;
+      border-bottom:1px solid var(--border);white-space:nowrap;
+      background:var(--surface);position:sticky;top:0;z-index:1;
+      cursor:pointer;user-select:none}
+    thead th:hover{color:var(--text)}
+    thead th.sort-asc::after{content:" ▲";color:var(--accent)}
+    thead th.sort-desc::after{content:" ▼";color:var(--accent)}
+    tbody tr{border-bottom:1px solid var(--border);transition:background .1s}
+    tbody tr:last-child{border-bottom:none}
+    tbody tr:hover{background:rgba(59,130,246,.04)}
+    tbody tr.row-added{background:var(--green-bg)}
+    tbody tr.row-removed{background:var(--red-bg)}
+    tbody tr.row-changed{background:var(--yellow-bg)}
+    td{padding:10px 14px;font-family:var(--mono);white-space:nowrap}
+    td.ticker-cell{font-weight:600;font-size:13px;color:#fff}
+    td.name-cell{color:var(--text);font-size:11px;max-width:260px;overflow:hidden;
+      text-overflow:ellipsis;font-family:var(--sans)}
+    td.num{text-align:right}
+    .badge{display:inline-block;padding:2px 6px;border-radius:3px;font-size:10px;font-weight:500}
+    .badge-added{background:var(--green-bg);color:var(--green);border:1px solid rgba(34,197,94,.2)}
+    .badge-removed{background:var(--red-bg);color:var(--red);border:1px solid rgba(239,68,68,.2)}
+    .badge-changed{background:var(--yellow-bg);color:var(--yellow);border:1px solid rgba(245,158,11,.2)}
+    .badge-unchanged{background:transparent;color:var(--muted);border:1px solid var(--border)}
+    .chg-pos{color:var(--green)}.chg-neg{color:var(--red)}.chg-zero{color:var(--muted)}
+    .na{color:var(--muted);font-size:10px}
+    .bar-wrap{display:flex;align-items:center;gap:6px;justify-content:flex-end}
+    .mini-bar{display:inline-block;height:8px;min-width:2px;border-radius:2px}
+    .state-msg{text-align:center;padding:60px 20px;color:var(--muted);
+      font-family:var(--mono);font-size:13px}
+    .spinner{display:inline-block;width:18px;height:18px;border:2px solid var(--border);
+      border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;margin-bottom:12px}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @media(max-width:900px){
+      header,main{padding-left:16px;padding-right:16px}
+      .tab-bar,.etf-subtitle{padding-left:16px;padding-right:16px}
+      .stats{grid-template-columns:repeat(2,1fr)}
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="logo">Avantis <span>ETF</span> Holdings Tracker</div>
+  <div class="header-right">
+    <span class="date-badge" id="headerDate">--</span>
+    <button class="refresh-btn" onclick="loadCurrentTab()">&#8635; REFRESH</button>
+  </div>
+</header>
+<div class="tab-bar" id="tabBar"></div>
+<div class="etf-subtitle" id="etfSubtitle"></div>
+<main>
+  <div class="stats">
+    <div class="stat"><div class="stat-label">Total Holdings</div><div class="stat-value" id="statTotal">--</div></div>
+    <div class="stat"><div class="stat-label">Changed</div><div class="stat-value yellow" id="statChanged">--</div></div>
+    <div class="stat"><div class="stat-label">Added</div><div class="stat-value green" id="statAdded">--</div></div>
+    <div class="stat"><div class="stat-label">Removed</div><div class="stat-value red" id="statRemoved">--</div></div>
+  </div>
+  <div class="toolbar">
+    <div class="period-group">
+      <button class="period-btn active" onclick="setPeriod(1,this)">1D</button>
+      <button class="period-btn" onclick="setPeriod(5,this)">5D</button>
+      <button class="period-btn" onclick="setPeriod(10,this)">10D</button>
+      <button class="period-btn" onclick="setPeriod(30,this)">30D</button>
+    </div>
+    <div class="filter-group">
+      <button class="filter-btn active" onclick="setFilter('all',this)">ALL</button>
+      <button class="filter-btn" onclick="setFilter('changed',this)">CHANGED</button>
+      <button class="filter-btn" onclick="setFilter('added',this)">ADDED</button>
+      <button class="filter-btn" onclick="setFilter('removed',this)">REMOVED</button>
+      <button class="filter-btn" onclick="setFilter('unchanged',this)">UNCHANGED</button>
+    </div>
+    <input class="search-input" id="searchInput" placeholder="Search ticker or name..." oninput="renderTable()" />
+    <span class="diff-info" id="diffInfo"></span>
+  </div>
+  <div class="table-wrap" id="tableWrap">
+    <div class="state-msg"><div class="spinner"></div><br>Loading...</div>
+  </div>
+</main>
+<script>
+  var ETFS = ["AVUV","AVGV","AVNM","AVLV"];
+  var ETF_NAMES = {
+    "AVUV":"US Small Cap Value ETF",
+    "AVGV":"All Equity Markets Value ETF",
+    "AVNM":"All International Markets Equity ETF",
+    "AVLV":"US Large Cap Value ETF"
+  };
+
+  var currentTicker = ETFS[0];
+  var allRows       = [];
+  var activeFilter  = "all";
+  var activePeriod  = 1;
+  var sortCol       = null;
+  var sortDir       = "asc";
+
+  function updateSubtitle(ticker) {
+    document.getElementById("etfSubtitle").innerHTML =
+      '<strong>' + ticker + '</strong>' + (ETF_NAMES[ticker] || "");
+  }
+
+  var tabBar = document.getElementById("tabBar");
+  ETFS.forEach(function(t) {
+    var btn = document.createElement("button");
+    btn.className = "tab-btn" + (t === currentTicker ? " active" : "");
+    btn.textContent = t;
+    btn.title = ETF_NAMES[t] || t;
+    btn.id = "tab-" + t;
+    btn.onclick = function() { switchTab(t); };
+    tabBar.appendChild(btn);
+  });
+
+  function switchTab(ticker) {
+    currentTicker = ticker;
+    ETFS.forEach(function(t) {
+      document.getElementById("tab-" + t).classList.toggle("active", t === ticker);
+    });
+    activeFilter = "all";
+    sortCol = null;
+    sortDir = "asc";
+    document.querySelectorAll(".filter-btn").forEach(function(b, i) { b.classList.toggle("active", i===0); });
+    document.getElementById("searchInput").value = "";
+    updateSubtitle(ticker);
+    loadCurrentTab();
+  }
+
+  function setPeriod(days, btn) {
+    activePeriod = days;
+    document.querySelectorAll(".period-btn").forEach(function(b) { b.classList.remove("active"); });
+    btn.classList.add("active");
+    loadCurrentTab();
+  }
+
+  function fetchJSON(url) {
+    return fetch(url + "?t=" + Date.now()).then(function(r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    });
+  }
+
+  function loadCurrentTab() {
+    document.getElementById("tableWrap").innerHTML =
+      '<div class="state-msg"><div class="spinner"></div><br>Loading ' + currentTicker + '...</div>';
+    document.getElementById("headerDate").textContent = "--";
+    ["statTotal","statChanged","statAdded","statRemoved"].forEach(function(id) {
+      document.getElementById(id).textContent = "--";
+    });
+
+    var base = "data/" + currentTicker + "/";
+
+    if (activePeriod === 1) {
+      fetchJSON(base + "diff.json")
+        .then(function(data) { displayDiff(data); })
+        .catch(function(err) { showError(err.message); });
+    } else {
+      fetchJSON(base + "history.json")
+        .then(function(history) {
+          if (!history || !history.length) throw new Error("No history yet.");
+          var todayEntry = history[0];
+          var priorIdx   = Math.min(activePeriod, history.length - 1);
+          var priorEntry = history[priorIdx];
+          if (!priorEntry || priorEntry.date === todayEntry.date)
+            throw new Error("Not enough history for " + activePeriod + "D yet.");
+          return Promise.all([
+            fetchJSON(base + todayEntry.date + ".json"),
+            fetchJSON(base + priorEntry.date + ".json")
+          ]);
+        })
+        .then(function(res) {
+          displayDiff(computeClientDiff(res[0].holdings, res[1].holdings, res[0].date, res[1].date));
+        })
+        .catch(function(err) { showError(err.message); });
+    }
+  }
+
+  function computeClientDiff(todayRec, priorRec, todayDate, priorDate) {
+    var tMap = {}, pMap = {};
+    todayRec.forEach(function(r) { tMap[r.ticker] = r; });
+    priorRec.forEach(function(r) { pMap[r.ticker] = r; });
+    var keys = {};
+    Object.keys(tMap).forEach(function(k) { keys[k]=1; });
+    Object.keys(pMap).forEach(function(k) { keys[k]=1; });
+    var rows = [];
+    Object.keys(keys).sort().forEach(function(key) {
+      var t = tMap[key], p = pMap[key];
+      if (t && p) {
+        var qt = t.quantity||0, qp = p.quantity||0;
+        var pt = t.pct_of_fund||0, pp = p.pct_of_fund||0;
+        var qc = qp !== 0 ? (qt-qp)/qp*100 : 0;
+        rows.push({
+          ticker: t.ticker, name: t.name||p.name||"",
+          status: Math.abs(qc) > 0.0001 ? "changed" : "unchanged",
+          quantity_today: qt, quantity_prior: qp,
+          quantity_pct_change: Math.round(qc*10000)/10000,
+          pct_of_fund_today: pt, pct_of_fund_prior: pp,
+          pct_of_fund_change: Math.round((pt-pp)*10000)/10000,
+          market_value_today: t.market_value,
+        });
+      } else if (t) {
+        rows.push({ ticker:t.ticker, name:t.name||"", status:"added",
+          quantity_today:t.quantity||0, quantity_prior:null, quantity_pct_change:null,
+          pct_of_fund_today:t.pct_of_fund||0, pct_of_fund_prior:null,
+          pct_of_fund_change:null, market_value_today:t.market_value });
+      } else {
+        rows.push({ ticker:p.ticker, name:p.name||"", status:"removed",
+          quantity_today:null, quantity_prior:p.quantity||0, quantity_pct_change:null,
+          pct_of_fund_today:null, pct_of_fund_prior:p.pct_of_fund||0,
+          pct_of_fund_change:null, market_value_today:null });
+      }
+    });
+    return { date: todayDate, prior_date: priorDate, diff: rows };
+  }
+
+  function displayDiff(data) {
+    document.getElementById("headerDate").textContent = data.date || "--";
+    if (!data.diff || !data.diff.length) {
+      showError("No data yet for " + currentTicker + ". Run the workflow first.");
+      return;
+    }
+    allRows = data.diff;
+    updateStats();
+    renderTable();
+    document.getElementById("diffInfo").textContent = data.prior_date
+      ? "comparing " + data.date + " vs " + data.prior_date
+      : "first snapshot — no prior data";
+  }
+
+  function showError(msg) {
+    document.getElementById("tableWrap").innerHTML = '<div class="state-msg">' + msg + '</div>';
+  }
+
+  function updateStats() {
+    var c = {changed:0,added:0,removed:0,unchanged:0};
+    allRows.forEach(function(r) { c[r.status]=(c[r.status]||0)+1; });
+    document.getElementById("statTotal").textContent   = allRows.length;
+    document.getElementById("statChanged").textContent = c.changed;
+    document.getElementById("statAdded").textContent   = c.added;
+    document.getElementById("statRemoved").textContent = c.removed;
+  }
+
+  function setFilter(f, btn) {
+    activeFilter = f;
+    document.querySelectorAll(".filter-btn").forEach(function(b) { b.classList.remove("active"); });
+    btn.classList.add("active");
+    renderTable();
+  }
+
+  function handleColSort(col) {
+    if (sortCol === col) { sortDir = sortDir === "asc" ? "desc" : "asc"; }
+    else {
+      sortCol = col;
+      sortDir = ["quantity_pct_change","pct_of_fund_today","market_value_today",
+                 "quantity_today","quantity_prior","pct_of_fund_prior",
+                 "pct_of_fund_change"].indexOf(col) >= 0 ? "desc" : "asc";
+    }
+    renderTable();
+  }
+
+  function getSortedFiltered() {
+    var q = document.getElementById("searchInput").value.trim().toUpperCase();
+    var rows = allRows.filter(function(r) {
+      if (activeFilter !== "all" && r.status !== activeFilter) return false;
+      if (q) {
+        var ok = (r.ticker && r.ticker.toUpperCase().indexOf(q) !== -1) ||
+                 (r.name   && r.name.toUpperCase().indexOf(q)   !== -1);
+        if (!ok) return false;
+      }
+      return true;
+    });
+    var so = {added:0,removed:1,changed:2,unchanged:3};
+    var numCols = ["quantity_prior","quantity_today","quantity_pct_change",
+                   "pct_of_fund_prior","pct_of_fund_today","pct_of_fund_change","market_value_today"];
+    rows.sort(function(a, b) {
+      var cmp;
+      if (!sortCol) {
+        cmp = (so[a.status]||9)-(so[b.status]||9);
+        return cmp !== 0 ? cmp : (a.ticker||"").localeCompare(b.ticker||"");
+      }
+      if (sortCol==="ticker") { cmp=(a.ticker||"").localeCompare(b.ticker||""); return sortDir==="asc"?cmp:-cmp; }
+      if (sortCol==="name")   { cmp=(a.name||"").localeCompare(b.name||"");     return sortDir==="asc"?cmp:-cmp; }
+      if (sortCol==="status") { cmp=(so[a.status]||9)-(so[b.status]||9);       return sortDir==="asc"?cmp:-cmp; }
+      if (numCols.indexOf(sortCol)>=0) {
+        var av=a[sortCol]!=null?a[sortCol]:-1e12, bv=b[sortCol]!=null?b[sortCol]:-1e12;
+        return sortDir==="asc"?av-bv:bv-av;
+      }
+      return 0;
+    });
+    return rows;
+  }
+
+  function thCls(col) { return sortCol===col?(sortDir==="asc"?"sort-asc":"sort-desc"):""; }
+
+  function fmtQty(v) {
+    if (v==null) return '<span class="na">--</span>';
+    if (v>=1e9)  return (v/1e9).toFixed(3)+"B";
+    if (v>=1e6)  return (v/1e6).toFixed(3)+"M";
+    if (v>=1000) return (v/1000).toFixed(2)+"K";
+    return v.toFixed(0);
+  }
+  function fmtPct(v) {
+    return v==null ? '<span class="na">--</span>' : v.toFixed(4)+"%";
+  }
+  function fmtMV(v) {
+    if (v==null) return '<span class="na">--</span>';
+    if (v>=1e9)  return "$"+(v/1e9).toFixed(2)+"B";
+    if (v>=1e6)  return "$"+(v/1e6).toFixed(2)+"M";
+    if (v>=1000) return "$"+(v/1000).toFixed(2)+"K";
+    return "$"+v.toFixed(0);
+  }
+  function fmtChg(v, isPct) {
+    if (v==null) return '<span class="na">--</span>';
+    var cls  = v>0?"chg-pos":v<0?"chg-neg":"chg-zero";
+    var sign = v>0?"+":"";
+    var txt  = isPct ? sign+v.toFixed(4)+"pp" : sign+v.toFixed(2)+"%";
+    var bw   = Math.min(Math.abs(v)/(isPct?2:20)*36,36);
+    var bc   = v>0?"var(--green)":v<0?"var(--red)":"var(--muted)";
+    return '<div class="bar-wrap"><span class="'+cls+'">'+txt+'</span>'+
+           '<span class="mini-bar" style="width:'+bw+'px;background:'+bc+';opacity:.5"></span></div>';
+  }
+  function badge(s) {
+    var L={added:"+ ADDED",removed:"- REMOVED",changed:"~ CHANGED",unchanged:". same"};
+    return '<span class="badge badge-'+s+'">'+(L[s]||s)+'</span>';
+  }
+
+  function renderTable() {
+    var rows = getSortedFiltered();
+    if (!rows.length) {
+      document.getElementById("tableWrap").innerHTML=
+        '<div class="state-msg">No holdings match the current filter.</div>';
+      return;
+    }
+    var cols = [
+      {key:"ticker",             label:"Ticker",       num:false},
+      {key:"name",               label:"Name",         num:false},
+      {key:"status",             label:"Status",       num:false},
+      {key:"quantity_prior",     label:"Qty (Prior)",  num:true},
+      {key:"quantity_today",     label:"Qty (Today)",  num:true},
+      {key:"quantity_pct_change",label:"Qty Delta %",  num:true},
+      {key:"pct_of_fund_prior",  label:"Wt (Prior)",   num:true},
+      {key:"pct_of_fund_today",  label:"Wt (Today)",   num:true},
+      {key:"pct_of_fund_change", label:"Wt Delta",     num:true},
+      {key:"market_value_today", label:"Market Value", num:true},
+    ];
+    var thead = "<thead><tr>";
+    cols.forEach(function(c) {
+      var cls=(c.num?"num ":"")+thCls(c.key);
+      thead+='<th class="'+cls+'" onclick="handleColSort(\''+c.key+'\')">'+c.label+'</th>';
+    });
+    thead+="</tr></thead>";
+    var tbody="<tbody>";
+    rows.forEach(function(r) {
+      tbody+='<tr class="row-'+r.status+'">';
+      tbody+='<td class="ticker-cell">'+(r.ticker||'<span class="na">--</span>')+'</td>';
+      tbody+='<td class="name-cell" title="'+(r.name||"")+'">'+(r.name||'<span class="na">--</span>')+'</td>';
+      tbody+='<td>'+badge(r.status)+'</td>';
+      tbody+='<td class="num">'+fmtQty(r.quantity_prior)+'</td>';
+      tbody+='<td class="num">'+fmtQty(r.quantity_today)+'</td>';
+      tbody+='<td class="num">'+fmtChg(r.quantity_pct_change,false)+'</td>';
+      tbody+='<td class="num">'+fmtPct(r.pct_of_fund_prior)+'</td>';
+      tbody+='<td class="num">'+fmtPct(r.pct_of_fund_today)+'</td>';
+      tbody+='<td class="num">'+fmtChg(r.pct_of_fund_change,true)+'</td>';
+      tbody+='<td class="num">'+fmtMV(r.market_value_today)+'</td>';
+      tbody+='</tr>';
+    });
+    tbody+="</tbody>";
+    document.getElementById("tableWrap").innerHTML='<table>'+thead+tbody+'</table>';
+  }
+
+  updateSubtitle(currentTicker);
+  loadCurrentTab();
+</script>
+</body>
+</html>
