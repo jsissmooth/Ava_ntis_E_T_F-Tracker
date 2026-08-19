@@ -1,0 +1,906 @@
+{
+  "date": "2026-08-19",
+  "ticker": "AVUV",
+  "holdings": [
+    {
+      "ticker": "MATX",
+      "name": "MATSON INC COMMON STOCK",
+      "identifier": "57686G105",
+      "pct_of_fund": 1.05,
+      "quantity": 1516475.0,
+      "market_value": 331016163.0,
+      "sector": ""
+    },
+    {
+      "ticker": "LNTH",
+      "name": "LANTHEUS HOLDINGS INC COMMON STOCK USD.01",
+      "identifier": "516544103",
+      "pct_of_fund": 0.96,
+      "quantity": 3013576.0,
+      "market_value": 302141129.76,
+      "sector": ""
+    },
+    {
+      "ticker": "VSAT",
+      "name": "VIASAT INC COMMON STOCK USD.0001",
+      "identifier": "92552V100",
+      "pct_of_fund": 0.88,
+      "quantity": 3652651.0,
+      "market_value": 277857161.57,
+      "sector": ""
+    },
+    {
+      "ticker": "SM",
+      "name": "SM ENERGY CO COMMON STOCK USD.01",
+      "identifier": "78454L100",
+      "pct_of_fund": 0.86,
+      "quantity": 7647960.0,
+      "market_value": 271426100.4,
+      "sector": ""
+    },
+    {
+      "ticker": "GATX",
+      "name": "GATX CORP COMMON STOCK USD.625",
+      "identifier": "361448103",
+      "pct_of_fund": 0.8,
+      "quantity": 1416879.0,
+      "market_value": 252643694.49,
+      "sector": ""
+    },
+    {
+      "ticker": "M",
+      "name": "MACY S INC COMMON STOCK USD.01",
+      "identifier": "55616P104",
+      "pct_of_fund": 0.77,
+      "quantity": 10476792.0,
+      "market_value": 243375878.16,
+      "sector": ""
+    },
+    {
+      "ticker": "RUSHA",
+      "name": "RUSH ENTERPRISES INC CL A COMMON STOCK USD.01",
+      "identifier": "781846209",
+      "pct_of_fund": 0.71,
+      "quantity": 2826452.0,
+      "market_value": 224392024.28,
+      "sector": ""
+    },
+    {
+      "ticker": "SKYW",
+      "name": "SKYWEST INC COMMON STOCK",
+      "identifier": "830879102",
+      "pct_of_fund": 0.71,
+      "quantity": 2173358.0,
+      "market_value": 224094943.38,
+      "sector": ""
+    },
+    {
+      "ticker": "AVT",
+      "name": "AVNET INC COMMON STOCK USD1.0",
+      "identifier": "053807103",
+      "pct_of_fund": 0.71,
+      "quantity": 2384491.0,
+      "market_value": 222711459.4,
+      "sector": ""
+    },
+    {
+      "ticker": "CBT",
+      "name": "CABOT CORP COMMON STOCK USD1.0",
+      "identifier": "127055101",
+      "pct_of_fund": 0.7,
+      "quantity": 2603566.0,
+      "market_value": 219376471.16,
+      "sector": ""
+    },
+    {
+      "ticker": "LEA",
+      "name": "LEAR CORP COMMON STOCK USD.01",
+      "identifier": "521865204",
+      "pct_of_fund": 0.67,
+      "quantity": 1707650.0,
+      "market_value": 211577835.0,
+      "sector": ""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "OSCAR HEALTH INC   CLASS A COMMON STOCK USD.00001",
+      "identifier": "687793109",
+      "pct_of_fund": 0.66,
+      "quantity": 6697525.0,
+      "market_value": 209498582.0,
+      "sector": ""
+    },
+    {
+      "ticker": "INSW",
+      "name": "INTERNATIONAL SEAWAYS INC COMMON STOCK",
+      "identifier": "Y41053102",
+      "pct_of_fund": 0.62,
+      "quantity": 1993812.0,
+      "market_value": 196928811.24,
+      "sector": ""
+    },
+    {
+      "ticker": "AROC",
+      "name": "ARCHROCK INC COMMON STOCK USD.01",
+      "identifier": "03957W106",
+      "pct_of_fund": 0.62,
+      "quantity": 5734129.0,
+      "market_value": 195648481.48,
+      "sector": ""
+    },
+    {
+      "ticker": "ALK",
+      "name": "ALASKA AIR GROUP INC COMMON STOCK USD.01",
+      "identifier": "011659109",
+      "pct_of_fund": 0.61,
+      "quantity": 4569129.0,
+      "market_value": 193776760.89,
+      "sector": ""
+    },
+    {
+      "ticker": "OII",
+      "name": "OCEANEERING INTL INC COMMON STOCK USD.25",
+      "identifier": "675232102",
+      "pct_of_fund": 0.6,
+      "quantity": 3586016.0,
+      "market_value": 190417449.6,
+      "sector": ""
+    },
+    {
+      "ticker": "TPC",
+      "name": "TUTOR PERINI CORP COMMON STOCK USD1.0",
+      "identifier": "901109108",
+      "pct_of_fund": 0.6,
+      "quantity": 2077348.0,
+      "market_value": 190368170.72,
+      "sector": ""
+    },
+    {
+      "ticker": "CAKE",
+      "name": "CHEESECAKE FACTORY INC/THE COMMON STOCK USD.01",
+      "identifier": "163072101",
+      "pct_of_fund": 0.6,
+      "quantity": 1787986.0,
+      "market_value": 190170190.96,
+      "sector": ""
+    },
+    {
+      "ticker": "CALM",
+      "name": "CAL MAINE FOODS INC COMMON STOCK USD.01",
+      "identifier": "128030202",
+      "pct_of_fund": 0.6,
+      "quantity": 2339208.0,
+      "market_value": 189920297.52,
+      "sector": ""
+    },
+    {
+      "ticker": "IRDM",
+      "name": "IRIDIUM COMMUNICATIONS INC COMMON STOCK USD.001",
+      "identifier": "46269C102",
+      "pct_of_fund": 0.6,
+      "quantity": 3856958.0,
+      "market_value": 189106650.74,
+      "sector": ""
+    },
+    {
+      "ticker": "ANF",
+      "name": "ABERCROMBIE + FITCH CO CL A COMMON STOCK USD.01",
+      "identifier": "002896207",
+      "pct_of_fund": 0.59,
+      "quantity": 1809476.0,
+      "market_value": 187063628.88,
+      "sector": ""
+    },
+    {
+      "ticker": "MGY",
+      "name": "MAGNOLIA OIL + GAS CORP   A COMMON STOCK USD.0001",
+      "identifier": "559663109",
+      "pct_of_fund": 0.58,
+      "quantity": 6846194.0,
+      "market_value": 184162618.6,
+      "sector": ""
+    },
+    {
+      "ticker": "NOV",
+      "name": "NOV INC COMMON STOCK USD.01",
+      "identifier": "62955J103",
+      "pct_of_fund": 0.58,
+      "quantity": 8772362.0,
+      "market_value": 184131878.38,
+      "sector": ""
+    },
+    {
+      "ticker": "CROX",
+      "name": "CROCS INC COMMON STOCK USD.001",
+      "identifier": "227046109",
+      "pct_of_fund": 0.58,
+      "quantity": 1423222.0,
+      "market_value": 183111742.52,
+      "sector": ""
+    },
+    {
+      "ticker": "NE",
+      "name": "NOBLE CORP PLC COMMON STOCK USD.00001",
+      "identifier": "G65431127",
+      "pct_of_fund": 0.56,
+      "quantity": 3933774.0,
+      "market_value": 178003273.5,
+      "sector": ""
+    },
+    {
+      "ticker": "SNEX",
+      "name": "STONEX GROUP INC COMMON STOCK USD.01",
+      "identifier": "861896108",
+      "pct_of_fund": 0.56,
+      "quantity": 2665228.0,
+      "market_value": 176971139.2,
+      "sector": ""
+    },
+    {
+      "ticker": "URBN",
+      "name": "URBAN OUTFITTERS INC COMMON STOCK USD.0001",
+      "identifier": "917047102",
+      "pct_of_fund": 0.56,
+      "quantity": 2363784.0,
+      "market_value": 176314648.56,
+      "sector": ""
+    },
+    {
+      "ticker": "PTEN",
+      "name": "PATTERSON UTI ENERGY INC COMMON STOCK USD.01",
+      "identifier": "703481101",
+      "pct_of_fund": 0.56,
+      "quantity": 14456173.0,
+      "market_value": 175281097.63,
+      "sector": ""
+    },
+    {
+      "ticker": "MUR",
+      "name": "MURPHY OIL CORP COMMON STOCK USD1.0",
+      "identifier": "626717102",
+      "pct_of_fund": 0.55,
+      "quantity": 4965235.0,
+      "market_value": 174676967.3,
+      "sector": ""
+    },
+    {
+      "ticker": "MTG",
+      "name": "MGIC INVESTMENT CORP COMMON STOCK USD1.0",
+      "identifier": "552848103",
+      "pct_of_fund": 0.55,
+      "quantity": 5594744.0,
+      "market_value": 174108433.28,
+      "sector": ""
+    },
+    {
+      "ticker": "CNO",
+      "name": "CNO FINANCIAL GROUP INC COMMON STOCK USD.01",
+      "identifier": "12621E103",
+      "pct_of_fund": 0.55,
+      "quantity": 3170343.0,
+      "market_value": 172847100.36,
+      "sector": ""
+    },
+    {
+      "ticker": "ESNT",
+      "name": "ESSENT GROUP LTD COMMON STOCK USD.015",
+      "identifier": "G3198U102",
+      "pct_of_fund": 0.55,
+      "quantity": 2477294.0,
+      "market_value": 172370116.52,
+      "sector": ""
+    },
+    {
+      "ticker": "AX",
+      "name": "AXOS FINANCIAL INC COMMON STOCK USD.01",
+      "identifier": "05465C100",
+      "pct_of_fund": 0.54,
+      "quantity": 1738434.0,
+      "market_value": 169775464.44,
+      "sector": ""
+    },
+    {
+      "ticker": "GNTX",
+      "name": "GENTEX CORP COMMON STOCK USD.06",
+      "identifier": "371901109",
+      "pct_of_fund": 0.53,
+      "quantity": 7101575.0,
+      "market_value": 168165296.0,
+      "sector": ""
+    },
+    {
+      "ticker": "PSMT",
+      "name": "PRICESMART INC COMMON STOCK USD.0001",
+      "identifier": "741511109",
+      "pct_of_fund": 0.53,
+      "quantity": 945037.0,
+      "market_value": 166988037.9,
+      "sector": ""
+    },
+    {
+      "ticker": "UNFI",
+      "name": "UNITED NATURAL FOODS INC COMMON STOCK USD.01",
+      "identifier": "911163103",
+      "pct_of_fund": 0.53,
+      "quantity": 3546565.0,
+      "market_value": 166192035.9,
+      "sector": ""
+    },
+    {
+      "ticker": "OZK",
+      "name": "BANK OZK COMMON STOCK",
+      "identifier": "06417N103",
+      "pct_of_fund": 0.53,
+      "quantity": 3266529.0,
+      "market_value": 165743681.46,
+      "sector": ""
+    },
+    {
+      "ticker": "MTDR",
+      "name": "MATADOR RESOURCES CO COMMON STOCK USD.01",
+      "identifier": "576485205",
+      "pct_of_fund": 0.52,
+      "quantity": 2858882.0,
+      "market_value": 163642405.68,
+      "sector": ""
+    },
+    {
+      "ticker": "THG",
+      "name": "HANOVER INSURANCE GROUP INC/ COMMON STOCK USD.01",
+      "identifier": "410867105",
+      "pct_of_fund": 0.52,
+      "quantity": 733863.0,
+      "market_value": 163042342.71,
+      "sector": ""
+    },
+    {
+      "ticker": "WFRD",
+      "name": "WEATHERFORD INTERNATIONAL PL COMMON STOCK USD.001",
+      "identifier": "G48833118",
+      "pct_of_fund": 0.52,
+      "quantity": 1770562.0,
+      "market_value": 162980232.1,
+      "sector": ""
+    },
+    {
+      "ticker": "RDN",
+      "name": "RADIAN GROUP INC COMMON STOCK USD.001",
+      "identifier": "750236101",
+      "pct_of_fund": 0.51,
+      "quantity": 4338092.0,
+      "market_value": 159858690.2,
+      "sector": ""
+    },
+    {
+      "ticker": "CHRD",
+      "name": "CHORD ENERGY CORP COMMON STOCK",
+      "identifier": "674215207",
+      "pct_of_fund": 0.5,
+      "quantity": 1102285.0,
+      "market_value": 158662902.9,
+      "sector": ""
+    },
+    {
+      "ticker": "ATKR",
+      "name": "ATKORE INC COMMON STOCK USD.01",
+      "identifier": "047649108",
+      "pct_of_fund": 0.5,
+      "quantity": 1694573.0,
+      "market_value": 158340901.12,
+      "sector": ""
+    },
+    {
+      "ticker": "CNX",
+      "name": "CNX RESOURCES CORP COMMON STOCK USD.01",
+      "identifier": "12653C108",
+      "pct_of_fund": 0.5,
+      "quantity": 4435551.0,
+      "market_value": 156885438.87,
+      "sector": ""
+    },
+    {
+      "ticker": "KMX",
+      "name": "CARMAX INC COMMON STOCK USD.5",
+      "identifier": "143130102",
+      "pct_of_fund": 0.49,
+      "quantity": 2708007.0,
+      "market_value": 155439601.8,
+      "sector": ""
+    },
+    {
+      "ticker": "TDS",
+      "name": "TELEPHONE AND DATA SYSTEMS COMMON STOCK USD.01",
+      "identifier": "879433829",
+      "pct_of_fund": 0.49,
+      "quantity": 4537627.0,
+      "market_value": 155050714.59,
+      "sector": ""
+    },
+    {
+      "ticker": "NEU",
+      "name": "NEWMARKET CORP COMMON STOCK",
+      "identifier": "651587107",
+      "pct_of_fund": 0.49,
+      "quantity": 162359.0,
+      "market_value": 153757220.18,
+      "sector": ""
+    },
+    {
+      "ticker": "DAN",
+      "name": "DANA INC COMMON STOCK USD.01",
+      "identifier": "235825205",
+      "pct_of_fund": 0.49,
+      "quantity": 4978791.0,
+      "market_value": 153296974.89,
+      "sector": ""
+    },
+    {
+      "ticker": "BC",
+      "name": "BRUNSWICK CORP COMMON STOCK USD.75",
+      "identifier": "117043109",
+      "pct_of_fund": 0.48,
+      "quantity": 1880733.0,
+      "market_value": 152358180.33,
+      "sector": ""
+    },
+    {
+      "ticker": "PARR",
+      "name": "PAR PACIFIC HOLDINGS INC COMMON STOCK USD.01",
+      "identifier": "69888T207",
+      "pct_of_fund": 0.48,
+      "quantity": 1888509.0,
+      "market_value": 152043859.59,
+      "sector": ""
+    },
+    {
+      "ticker": "MATX",
+      "name": "MATSON INC COMMON STOCK",
+      "identifier": "57686G105",
+      "pct_of_fund": 1.05,
+      "quantity": 1516475.0,
+      "market_value": 331016163.0,
+      "sector": ""
+    },
+    {
+      "ticker": "LNTH",
+      "name": "LANTHEUS HOLDINGS INC COMMON STOCK USD.01",
+      "identifier": "516544103",
+      "pct_of_fund": 0.96,
+      "quantity": 3013576.0,
+      "market_value": 302141129.76,
+      "sector": ""
+    },
+    {
+      "ticker": "VSAT",
+      "name": "VIASAT INC COMMON STOCK USD.0001",
+      "identifier": "92552V100",
+      "pct_of_fund": 0.88,
+      "quantity": 3652651.0,
+      "market_value": 277857161.57,
+      "sector": ""
+    },
+    {
+      "ticker": "SM",
+      "name": "SM ENERGY CO COMMON STOCK USD.01",
+      "identifier": "78454L100",
+      "pct_of_fund": 0.86,
+      "quantity": 7647960.0,
+      "market_value": 271426100.4,
+      "sector": ""
+    },
+    {
+      "ticker": "GATX",
+      "name": "GATX CORP COMMON STOCK USD.625",
+      "identifier": "361448103",
+      "pct_of_fund": 0.8,
+      "quantity": 1416879.0,
+      "market_value": 252643694.49,
+      "sector": ""
+    },
+    {
+      "ticker": "M",
+      "name": "MACY S INC COMMON STOCK USD.01",
+      "identifier": "55616P104",
+      "pct_of_fund": 0.77,
+      "quantity": 10476792.0,
+      "market_value": 243375878.16,
+      "sector": ""
+    },
+    {
+      "ticker": "RUSHA",
+      "name": "RUSH ENTERPRISES INC CL A COMMON STOCK USD.01",
+      "identifier": "781846209",
+      "pct_of_fund": 0.71,
+      "quantity": 2826452.0,
+      "market_value": 224392024.28,
+      "sector": ""
+    },
+    {
+      "ticker": "SKYW",
+      "name": "SKYWEST INC COMMON STOCK",
+      "identifier": "830879102",
+      "pct_of_fund": 0.71,
+      "quantity": 2173358.0,
+      "market_value": 224094943.38,
+      "sector": ""
+    },
+    {
+      "ticker": "AVT",
+      "name": "AVNET INC COMMON STOCK USD1.0",
+      "identifier": "053807103",
+      "pct_of_fund": 0.71,
+      "quantity": 2384491.0,
+      "market_value": 222711459.4,
+      "sector": ""
+    },
+    {
+      "ticker": "CBT",
+      "name": "CABOT CORP COMMON STOCK USD1.0",
+      "identifier": "127055101",
+      "pct_of_fund": 0.7,
+      "quantity": 2603566.0,
+      "market_value": 219376471.16,
+      "sector": ""
+    },
+    {
+      "ticker": "LEA",
+      "name": "LEAR CORP COMMON STOCK USD.01",
+      "identifier": "521865204",
+      "pct_of_fund": 0.67,
+      "quantity": 1707650.0,
+      "market_value": 211577835.0,
+      "sector": ""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "OSCAR HEALTH INC   CLASS A COMMON STOCK USD.00001",
+      "identifier": "687793109",
+      "pct_of_fund": 0.66,
+      "quantity": 6697525.0,
+      "market_value": 209498582.0,
+      "sector": ""
+    },
+    {
+      "ticker": "INSW",
+      "name": "INTERNATIONAL SEAWAYS INC COMMON STOCK",
+      "identifier": "Y41053102",
+      "pct_of_fund": 0.62,
+      "quantity": 1993812.0,
+      "market_value": 196928811.24,
+      "sector": ""
+    },
+    {
+      "ticker": "AROC",
+      "name": "ARCHROCK INC COMMON STOCK USD.01",
+      "identifier": "03957W106",
+      "pct_of_fund": 0.62,
+      "quantity": 5734129.0,
+      "market_value": 195648481.48,
+      "sector": ""
+    },
+    {
+      "ticker": "ALK",
+      "name": "ALASKA AIR GROUP INC COMMON STOCK USD.01",
+      "identifier": "011659109",
+      "pct_of_fund": 0.61,
+      "quantity": 4569129.0,
+      "market_value": 193776760.89,
+      "sector": ""
+    },
+    {
+      "ticker": "OII",
+      "name": "OCEANEERING INTL INC COMMON STOCK USD.25",
+      "identifier": "675232102",
+      "pct_of_fund": 0.6,
+      "quantity": 3586016.0,
+      "market_value": 190417449.6,
+      "sector": ""
+    },
+    {
+      "ticker": "TPC",
+      "name": "TUTOR PERINI CORP COMMON STOCK USD1.0",
+      "identifier": "901109108",
+      "pct_of_fund": 0.6,
+      "quantity": 2077348.0,
+      "market_value": 190368170.72,
+      "sector": ""
+    },
+    {
+      "ticker": "CAKE",
+      "name": "CHEESECAKE FACTORY INC/THE COMMON STOCK USD.01",
+      "identifier": "163072101",
+      "pct_of_fund": 0.6,
+      "quantity": 1787986.0,
+      "market_value": 190170190.96,
+      "sector": ""
+    },
+    {
+      "ticker": "CALM",
+      "name": "CAL MAINE FOODS INC COMMON STOCK USD.01",
+      "identifier": "128030202",
+      "pct_of_fund": 0.6,
+      "quantity": 2339208.0,
+      "market_value": 189920297.52,
+      "sector": ""
+    },
+    {
+      "ticker": "IRDM",
+      "name": "IRIDIUM COMMUNICATIONS INC COMMON STOCK USD.001",
+      "identifier": "46269C102",
+      "pct_of_fund": 0.6,
+      "quantity": 3856958.0,
+      "market_value": 189106650.74,
+      "sector": ""
+    },
+    {
+      "ticker": "ANF",
+      "name": "ABERCROMBIE + FITCH CO CL A COMMON STOCK USD.01",
+      "identifier": "002896207",
+      "pct_of_fund": 0.59,
+      "quantity": 1809476.0,
+      "market_value": 187063628.88,
+      "sector": ""
+    },
+    {
+      "ticker": "MGY",
+      "name": "MAGNOLIA OIL + GAS CORP   A COMMON STOCK USD.0001",
+      "identifier": "559663109",
+      "pct_of_fund": 0.58,
+      "quantity": 6846194.0,
+      "market_value": 184162618.6,
+      "sector": ""
+    },
+    {
+      "ticker": "NOV",
+      "name": "NOV INC COMMON STOCK USD.01",
+      "identifier": "62955J103",
+      "pct_of_fund": 0.58,
+      "quantity": 8772362.0,
+      "market_value": 184131878.38,
+      "sector": ""
+    },
+    {
+      "ticker": "CROX",
+      "name": "CROCS INC COMMON STOCK USD.001",
+      "identifier": "227046109",
+      "pct_of_fund": 0.58,
+      "quantity": 1423222.0,
+      "market_value": 183111742.52,
+      "sector": ""
+    },
+    {
+      "ticker": "NE",
+      "name": "NOBLE CORP PLC COMMON STOCK USD.00001",
+      "identifier": "G65431127",
+      "pct_of_fund": 0.56,
+      "quantity": 3933774.0,
+      "market_value": 178003273.5,
+      "sector": ""
+    },
+    {
+      "ticker": "SNEX",
+      "name": "STONEX GROUP INC COMMON STOCK USD.01",
+      "identifier": "861896108",
+      "pct_of_fund": 0.56,
+      "quantity": 2665228.0,
+      "market_value": 176971139.2,
+      "sector": ""
+    },
+    {
+      "ticker": "URBN",
+      "name": "URBAN OUTFITTERS INC COMMON STOCK USD.0001",
+      "identifier": "917047102",
+      "pct_of_fund": 0.56,
+      "quantity": 2363784.0,
+      "market_value": 176314648.56,
+      "sector": ""
+    },
+    {
+      "ticker": "PTEN",
+      "name": "PATTERSON UTI ENERGY INC COMMON STOCK USD.01",
+      "identifier": "703481101",
+      "pct_of_fund": 0.56,
+      "quantity": 14456173.0,
+      "market_value": 175281097.63,
+      "sector": ""
+    },
+    {
+      "ticker": "MUR",
+      "name": "MURPHY OIL CORP COMMON STOCK USD1.0",
+      "identifier": "626717102",
+      "pct_of_fund": 0.55,
+      "quantity": 4965235.0,
+      "market_value": 174676967.3,
+      "sector": ""
+    },
+    {
+      "ticker": "MTG",
+      "name": "MGIC INVESTMENT CORP COMMON STOCK USD1.0",
+      "identifier": "552848103",
+      "pct_of_fund": 0.55,
+      "quantity": 5594744.0,
+      "market_value": 174108433.28,
+      "sector": ""
+    },
+    {
+      "ticker": "CNO",
+      "name": "CNO FINANCIAL GROUP INC COMMON STOCK USD.01",
+      "identifier": "12621E103",
+      "pct_of_fund": 0.55,
+      "quantity": 3170343.0,
+      "market_value": 172847100.36,
+      "sector": ""
+    },
+    {
+      "ticker": "ESNT",
+      "name": "ESSENT GROUP LTD COMMON STOCK USD.015",
+      "identifier": "G3198U102",
+      "pct_of_fund": 0.55,
+      "quantity": 2477294.0,
+      "market_value": 172370116.52,
+      "sector": ""
+    },
+    {
+      "ticker": "AX",
+      "name": "AXOS FINANCIAL INC COMMON STOCK USD.01",
+      "identifier": "05465C100",
+      "pct_of_fund": 0.54,
+      "quantity": 1738434.0,
+      "market_value": 169775464.44,
+      "sector": ""
+    },
+    {
+      "ticker": "GNTX",
+      "name": "GENTEX CORP COMMON STOCK USD.06",
+      "identifier": "371901109",
+      "pct_of_fund": 0.53,
+      "quantity": 7101575.0,
+      "market_value": 168165296.0,
+      "sector": ""
+    },
+    {
+      "ticker": "PSMT",
+      "name": "PRICESMART INC COMMON STOCK USD.0001",
+      "identifier": "741511109",
+      "pct_of_fund": 0.53,
+      "quantity": 945037.0,
+      "market_value": 166988037.9,
+      "sector": ""
+    },
+    {
+      "ticker": "UNFI",
+      "name": "UNITED NATURAL FOODS INC COMMON STOCK USD.01",
+      "identifier": "911163103",
+      "pct_of_fund": 0.53,
+      "quantity": 3546565.0,
+      "market_value": 166192035.9,
+      "sector": ""
+    },
+    {
+      "ticker": "OZK",
+      "name": "BANK OZK COMMON STOCK",
+      "identifier": "06417N103",
+      "pct_of_fund": 0.53,
+      "quantity": 3266529.0,
+      "market_value": 165743681.46,
+      "sector": ""
+    },
+    {
+      "ticker": "MTDR",
+      "name": "MATADOR RESOURCES CO COMMON STOCK USD.01",
+      "identifier": "576485205",
+      "pct_of_fund": 0.52,
+      "quantity": 2858882.0,
+      "market_value": 163642405.68,
+      "sector": ""
+    },
+    {
+      "ticker": "THG",
+      "name": "HANOVER INSURANCE GROUP INC/ COMMON STOCK USD.01",
+      "identifier": "410867105",
+      "pct_of_fund": 0.52,
+      "quantity": 733863.0,
+      "market_value": 163042342.71,
+      "sector": ""
+    },
+    {
+      "ticker": "WFRD",
+      "name": "WEATHERFORD INTERNATIONAL PL COMMON STOCK USD.001",
+      "identifier": "G48833118",
+      "pct_of_fund": 0.52,
+      "quantity": 1770562.0,
+      "market_value": 162980232.1,
+      "sector": ""
+    },
+    {
+      "ticker": "RDN",
+      "name": "RADIAN GROUP INC COMMON STOCK USD.001",
+      "identifier": "750236101",
+      "pct_of_fund": 0.51,
+      "quantity": 4338092.0,
+      "market_value": 159858690.2,
+      "sector": ""
+    },
+    {
+      "ticker": "CHRD",
+      "name": "CHORD ENERGY CORP COMMON STOCK",
+      "identifier": "674215207",
+      "pct_of_fund": 0.5,
+      "quantity": 1102285.0,
+      "market_value": 158662902.9,
+      "sector": ""
+    },
+    {
+      "ticker": "ATKR",
+      "name": "ATKORE INC COMMON STOCK USD.01",
+      "identifier": "047649108",
+      "pct_of_fund": 0.5,
+      "quantity": 1694573.0,
+      "market_value": 158340901.12,
+      "sector": ""
+    },
+    {
+      "ticker": "CNX",
+      "name": "CNX RESOURCES CORP COMMON STOCK USD.01",
+      "identifier": "12653C108",
+      "pct_of_fund": 0.5,
+      "quantity": 4435551.0,
+      "market_value": 156885438.87,
+      "sector": ""
+    },
+    {
+      "ticker": "KMX",
+      "name": "CARMAX INC COMMON STOCK USD.5",
+      "identifier": "143130102",
+      "pct_of_fund": 0.49,
+      "quantity": 2708007.0,
+      "market_value": 155439601.8,
+      "sector": ""
+    },
+    {
+      "ticker": "TDS",
+      "name": "TELEPHONE AND DATA SYSTEMS COMMON STOCK USD.01",
+      "identifier": "879433829",
+      "pct_of_fund": 0.49,
+      "quantity": 4537627.0,
+      "market_value": 155050714.59,
+      "sector": ""
+    },
+    {
+      "ticker": "NEU",
+      "name": "NEWMARKET CORP COMMON STOCK",
+      "identifier": "651587107",
+      "pct_of_fund": 0.49,
+      "quantity": 162359.0,
+      "market_value": 153757220.18,
+      "sector": ""
+    },
+    {
+      "ticker": "DAN",
+      "name": "DANA INC COMMON STOCK USD.01",
+      "identifier": "235825205",
+      "pct_of_fund": 0.49,
+      "quantity": 4978791.0,
+      "market_value": 153296974.89,
+      "sector": ""
+    },
+    {
+      "ticker": "BC",
+      "name": "BRUNSWICK CORP COMMON STOCK USD.75",
+      "identifier": "117043109",
+      "pct_of_fund": 0.48,
+      "quantity": 1880733.0,
+      "market_value": 152358180.33,
+      "sector": ""
+    },
+    {
+      "ticker": "PARR",
+      "name": "PAR PACIFIC HOLDINGS INC COMMON STOCK USD.01",
+      "identifier": "69888T207",
+      "pct_of_fund": 0.48,
+      "quantity": 1888509.0,
+      "market_value": 152043859.59,
+      "sector": ""
+    }
+  ]
+}
