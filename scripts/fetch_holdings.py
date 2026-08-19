@@ -23,84 +23,160 @@ def is_nyse_trading_day(d):
     return not nyse.schedule(start_date=d.isoformat(), end_date=d.isoformat()).empty
 
 
-def download_csv(fund_id, ticker):
-    """Use Playwright to download the All Holdings CSV from Avantis."""
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            accept_downloads=True,
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/120.0.0.0 Safari/537.36"
-            ),
-            viewport={"width": 1920, "height": 1080},
+def dismiss_dialog(page):
+    """Use JavaScript to click United States and Accept & Continue."""
+    # Click United States
+    result = page.evaluate("""
+        () => {
+            var all = Array.from(document.querySelectorAll('*'));
+            for (var el of all) {
+                if (el.children.length === 0 &&
+                    el.textContent.trim() === 'United States') {
+                    el.click();
+                    return 'clicked US';
+                }
+            }
+            return 'US not found';
+        }
+    """)
+    print("  Dialog US: {}".format(result), file=sys.stderr)
+    page.wait_for_timeout(1000)
+
+    # Click Accept & Continue
+    result2 = page.evaluate("""
+        () => {
+            var all = Array.from(document.querySelectorAll('button, a, div, span'));
+            for (var el of all) {
+                var t = el.textContent.trim();
+                if ((t === 'Accept & Continue') || (t === 'Accept and Continue')) {
+                    el.click();
+                    return 'clicked accept';
+                }
+            }
+            // Broader fallback
+            for (var el of all) {
+                var t = el.textContent.trim();
+                if (t.includes('Accept') && t.includes('Continue') && t.length < 40) {
+                    el.click();
+                    return 'clicked accept fallback';
+                }
+            }
+            return 'accept not found';
+        }
+    """)
+    print("  Dialog accept: {}".format(result2), file=sys.stderr)
+    page.wait_for_timeout(4000)
+
+
+def wait_for_holdings(page):
+    """Wait until the holdings table content is visible."""
+    try:
+        # Wait for a table row that contains actual stock data
+        page.wait_for_function(
+            """() => {
+                var rows = document.querySelectorAll('table tbody tr');
+                return rows.length > 2;
+            }""",
+            timeout=30000
         )
-        page = context.new_page()
+        page.wait_for_timeout(2000)
+        row_count = page.evaluate("() => document.querySelectorAll('table tbody tr').length")
+        print("  Holdings rows visible: {}".format(row_count), file=sys.stderr)
+        return True
+    except Exception as e:
+        print("  Holdings not visible: {}".format(e), file=sys.stderr)
+        return False
 
-        url = ("https://www.avantisinvestors.com/avantis-investments/"
-               "total-holdings/{}/?type=etf").format(fund_id)
-        print("  Loading {}...".format(url), file=sys.stderr)
-        page.goto(url, wait_until="networkidle", timeout=90000)
-        page.wait_for_timeout(5000)
 
-        # Handle country selector — select United States then Accept & Continue
+def try_download_csv(page):
+    """Try multiple strategies to click the CSV download button."""
+    strategies = [
+        "text=All holdings (CSV)",
+        "text=All Holdings (CSV)",
+        "a:has-text('CSV')",
+        "button:has-text('CSV')",
+        "[href*='.csv']",
+        "[download]",
+    ]
+
+    # Also try via JavaScript
+    js_result = page.evaluate("""
+        () => {
+            var all = Array.from(document.querySelectorAll('a, button'));
+            for (var el of all) {
+                var t = el.textContent.toLowerCase();
+                if (t.includes('csv') || t.includes('download all')) {
+                    return el.outerHTML.substring(0, 200);
+                }
+            }
+            return 'not found';
+        }
+    """)
+    print("  CSV button JS search: {}".format(js_result[:100]), file=sys.stderr)
+
+    tmp_path = tempfile.mktemp(suffix=".csv")
+
+    for strategy in strategies:
         try:
-            us = page.locator("text=United States").first
-            if us.is_visible(timeout=3000):
-                us.click()
-                page.wait_for_timeout(1000)
-                print("  Selected United States.", file=sys.stderr)
-        except Exception:
-            pass
-
-        try:
-            accept = page.locator("text=Accept & Continue").first
-            if accept.is_visible(timeout=3000):
-                accept.click()
-                page.wait_for_timeout(5000)
-                print("  Accepted terms.", file=sys.stderr)
-        except Exception:
-            pass
-
-        # Wait for holdings table
-        try:
-            page.wait_for_selector("table", timeout=30000)
-            page.wait_for_timeout(2000)
-            print("  Holdings table loaded.", file=sys.stderr)
+            loc = page.locator(strategy).first
+            if loc.count() > 0:
+                print("  Trying strategy: {}".format(strategy), file=sys.stderr)
+                with page.expect_download(timeout=20000) as dl_info:
+                    loc.click(timeout=5000)
+                dl = dl_info.value
+                dl.save_as(tmp_path)
+                with open(tmp_path, "r", encoding="utf-8") as f:
+                    text = f.read()
+                try:
+                    os.unlink(tmp_path)
+                except Exception:
+                    pass
+                print("  Downloaded via: {}".format(strategy), file=sys.stderr)
+                return text
         except Exception as e:
-            print("  Table not found: {}".format(e), file=sys.stderr)
+            print("  Strategy '{}' failed: {}".format(strategy, str(e)[:60]), file=sys.stderr)
 
-        # Download CSV
-        tmp_path = tempfile.mktemp(suffix=".csv")
-        try:
-            with page.expect_download(timeout=30000) as dl_info:
-                page.locator("text=All holdings (CSV)").first.click()
-                print("  Clicked CSV download.", file=sys.stderr)
+    # Last resort: JavaScript click
+    try:
+        page.evaluate("""
+            () => {
+                var all = Array.from(document.querySelectorAll('a, button'));
+                for (var el of all) {
+                    if (el.textContent.toLowerCase().includes('csv')) {
+                        el.click();
+                        return;
+                    }
+                }
+            }
+        """)
+        page.wait_for_timeout(3000)
+    except Exception:
+        pass
 
-            dl = dl_info.value
-            dl.save_as(tmp_path)
-            print("  Downloaded CSV.", file=sys.stderr)
+    return None
 
-            with open(tmp_path, "r", encoding="utf-8") as f:
-                csv_text = f.read()
 
-            try:
-                os.unlink(tmp_path)
-            except Exception:
-                pass
+def fetch_fund_csv(page, fund_id, ticker):
+    """Navigate to fund page and download CSV. Page already has US location set."""
+    url = ("https://www.avantisinvestors.com/avantis-investments/"
+           "total-holdings/{}/?type=etf").format(fund_id)
+    print("  Loading {}...".format(url), file=sys.stderr)
+    page.goto(url, wait_until="networkidle", timeout=90000)
+    page.wait_for_timeout(5000)
 
-            browser.close()
-            return csv_text
+    # Dismiss any dialog that appears on this page too
+    dismiss_dialog(page)
 
-        except Exception as e:
-            print("  Download failed: {}".format(e), file=sys.stderr)
-            browser.close()
-            return None
+    # Wait for actual holdings to appear
+    holdings_ready = wait_for_holdings(page)
+    if not holdings_ready:
+        print("  Holdings table not ready -- still trying download.", file=sys.stderr)
+
+    # Try to download
+    return try_download_csv(page)
 
 
 def parse_holdings(csv_text):
-    """Parse the CSV and return list of holding dicts."""
     if not csv_text or not csv_text.strip():
         return []
 
@@ -112,7 +188,6 @@ def parse_holdings(csv_text):
         print("  CSV parse error: {}".format(e), file=sys.stderr)
         return []
 
-    # Flexible column finder
     def find_col(keywords):
         for kw in keywords:
             for col in df.columns:
@@ -121,7 +196,7 @@ def parse_holdings(csv_text):
         return None
 
     ticker_col = find_col(["ticker", "symbol"])
-    name_col   = find_col(["company", "name", "security description", "security"])
+    name_col   = find_col(["company", "name", "security"])
     cusip_col  = find_col(["cusip"])
     shares_col = find_col(["shares", "notional", "principal"])
     mv_col     = find_col(["market value", "marketvalue"])
@@ -129,9 +204,9 @@ def parse_holdings(csv_text):
 
     def safe_float(val):
         try:
+            import math
             s = str(val).strip().replace(",", "").replace("%", "").replace("$", "")
             v = float(s)
-            import math
             return None if math.isnan(v) else v
         except (ValueError, TypeError):
             return None
@@ -144,29 +219,24 @@ def parse_holdings(csv_text):
 
         if ticker.lower() in ("nan", "ticker", ""):
             ticker = ""
-        if name.lower()   == "nan":
+        if name.lower()  == "nan":
             name = ""
-        if cusip.lower()  == "nan":
+        if cusip.lower() == "nan":
             cusip = ""
 
-        # Need at least a ticker or name to be a valid row
-        key = ticker or name
+        key = ticker or cusip or name
         if not key:
             continue
 
-        weight = safe_float(row[weight_col]) if weight_col else None
-        # Weight is already in percentage form e.g. 1.05 (meaning 1.05%)
-
         records.append({
-            "ticker":       ticker or cusip,  # fall back to CUSIP if no ticker
+            "ticker":       ticker or cusip,
             "name":         name,
             "identifier":   cusip,
-            "pct_of_fund":  weight,
-            "quantity":     safe_float(row[shares_col])  if shares_col else None,
-            "market_value": safe_float(row[mv_col])      if mv_col     else None,
+            "pct_of_fund":  safe_float(row[weight_col]) if weight_col else None,
+            "quantity":     safe_float(row[shares_col]) if shares_col else None,
+            "market_value": safe_float(row[mv_col])     if mv_col     else None,
             "sector":       "",
         })
-
     return records
 
 
@@ -261,10 +331,10 @@ def append_history(today_str, diff, etf_ticker):
         json.dump(history, f, indent=2)
 
 
-def process_etf(etf_ticker, fund_id, today_str):
+def process_etf(page, etf_ticker, fund_id, today_str):
     print("Fetching {} (fund ID {})...".format(etf_ticker, fund_id), file=sys.stderr)
     try:
-        csv_text = download_csv(fund_id, etf_ticker)
+        csv_text = fetch_fund_csv(page, fund_id, etf_ticker)
         if not csv_text:
             print("  No CSV data returned.", file=sys.stderr)
             return
@@ -300,14 +370,13 @@ def process_etf(etf_ticker, fund_id, today_str):
             with open(prior_path) as f:
                 prior_data = json.load(f)
             if prior_data["date"] == today_str:
-                print("  Already have data for {} -- skipping.".format(today_str), file=sys.stderr)
+                print("  Already have data -- skipping.".format(today_str), file=sys.stderr)
                 return
             diff = compute_diff(records, prior_data["holdings"], today_str, prior_data["date"], etf_ticker)
 
         data_dir = get_etf_data_dir(etf_ticker)
         with open(os.path.join(data_dir, "diff.json"), "w") as f:
             json.dump(diff, f, indent=2)
-
         append_history(today_str, diff, etf_ticker)
 
         changed = sum(1 for r in diff["diff"] if r["status"] == "changed")
@@ -317,7 +386,9 @@ def process_etf(etf_ticker, fund_id, today_str):
             len(records), changed, added, removed), file=sys.stderr)
 
     except Exception as e:
-        print("  ERROR for {}: {}".format(etf_ticker, e), file=sys.stderr)
+        import traceback
+        print("  ERROR: {}".format(e), file=sys.stderr)
+        traceback.print_exc(file=sys.stderr)
 
 
 def main():
@@ -329,8 +400,32 @@ def main():
         sys.exit(0)
 
     print("Running for {}...".format(today_str), file=sys.stderr)
-    for etf_ticker, info in ETFS.items():
-        process_etf(etf_ticker, info["fund_id"], today_str)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            accept_downloads=True,
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            ),
+            viewport={"width": 1920, "height": 1080},
+        )
+        page = context.new_page()
+
+        # Set US location on main site first so all fund pages skip the dialog
+        print("Setting US location on main site...", file=sys.stderr)
+        page.goto("https://www.avantisinvestors.com/", wait_until="networkidle", timeout=60000)
+        page.wait_for_timeout(4000)
+        dismiss_dialog(page)
+        page.wait_for_timeout(3000)
+
+        for etf_ticker, info in ETFS.items():
+            process_etf(page, etf_ticker, info["fund_id"], today_str)
+
+        browser.close()
+
     print("All done.", file=sys.stderr)
 
 
