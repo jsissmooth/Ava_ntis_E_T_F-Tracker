@@ -1,0 +1,3606 @@
+{
+  "date": "2026-10-13",
+  "ticker": "AVGV",
+  "holdings": [
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    },
+    {
+      "ticker": "AVLV",
+      "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
+      "identifier": "025072349",
+      "pct_of_fund": 37.35,
+      "quantity": 1906444.0,
+      "market_value": 177032389.84,
+      "sector": ""
+    },
+    {
+      "ticker": "AVUV",
+      "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
+      "identifier": "025072877",
+      "pct_of_fund": 17.71,
+      "quantity": 700055.0,
+      "market_value": 83964596.7,
+      "sector": ""
+    },
+    {
+      "ticker": "AVIV",
+      "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
+      "identifier": "025072364",
+      "pct_of_fund": 17.59,
+      "quantity": 1055749.0,
+      "market_value": 83361941.04,
+      "sector": ""
+    },
+    {
+      "ticker": "AVES",
+      "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
+      "identifier": "025072372",
+      "pct_of_fund": 10.58,
+      "quantity": 768014.0,
+      "market_value": 50158994.34,
+      "sector": ""
+    },
+    {
+      "ticker": "AVDV",
+      "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
+      "identifier": "025072802",
+      "pct_of_fund": 9.34,
+      "quantity": 409926.0,
+      "market_value": 44284305.78,
+      "sector": ""
+    },
+    {
+      "ticker": "AVMV",
+      "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
+      "identifier": "025072133",
+      "pct_of_fund": 7.34,
+      "quantity": 445290.0,
+      "market_value": 34790507.7,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "SSC GOVERNMENT MM GVMXX",
+      "identifier": "7839989D1",
+      "pct_of_fund": 0.08,
+      "quantity": 388918.0,
+      "market_value": 388917.83,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 576.0,
+      "market_value": 576.33,
+      "sector": ""
+    }
+  ]
+}
