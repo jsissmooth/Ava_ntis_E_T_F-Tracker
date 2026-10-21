@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "ticker": "AVNM",
-  "prior_date": "2026-10-19",
+  "prior_date": "2026-10-20",
   "diff": [
     {
       "ticker": "--",
@@ -9,13 +9,13 @@
       "identifier": "999USDZ92",
       "sector": "",
       "status": "changed",
-      "quantity_today": 15584.0,
-      "quantity_prior": 720340.0,
-      "quantity_pct_change": -97.8366,
+      "quantity_today": -30.0,
+      "quantity_prior": 15584.0,
+      "quantity_pct_change": -100.1925,
       "pct_of_fund_today": 0,
-      "pct_of_fund_prior": 0.09,
-      "pct_of_fund_change": -0.09,
-      "market_value_today": 15583.99
+      "pct_of_fund_prior": 0,
+      "pct_of_fund_change": 0,
+      "market_value_today": -29.72
     },
     {
       "ticker": "AVDE",
@@ -23,13 +23,13 @@
       "identifier": "025072703",
       "sector": "",
       "status": "changed",
-      "quantity_today": 3551416.0,
-      "quantity_prior": 3531802.0,
-      "quantity_pct_change": 0.5554,
-      "pct_of_fund_today": 40.18,
-      "pct_of_fund_prior": 40.31,
-      "pct_of_fund_change": -0.13,
-      "market_value_today": 317851732.0
+      "quantity_today": 3555176.0,
+      "quantity_prior": 3551416.0,
+      "quantity_pct_change": 0.1059,
+      "pct_of_fund_today": 40.24,
+      "pct_of_fund_prior": 40.18,
+      "pct_of_fund_change": 0.06,
+      "market_value_today": 320072495.28
     },
     {
       "ticker": "AVDS",
@@ -37,13 +37,13 @@
       "identifier": "025072190",
       "sector": "",
       "status": "changed",
-      "quantity_today": 226095.0,
-      "quantity_prior": 223827.0,
-      "quantity_pct_change": 1.0133,
+      "quantity_today": 226527.0,
+      "quantity_prior": 226095.0,
+      "quantity_pct_change": 0.1911,
       "pct_of_fund_today": 2.2,
-      "pct_of_fund_prior": 2.19,
-      "pct_of_fund_change": 0.01,
-      "market_value_today": 17395749.3
+      "pct_of_fund_prior": 2.2,
+      "pct_of_fund_change": 0.0,
+      "market_value_today": 17519598.18
     },
     {
       "ticker": "AVDV",
@@ -51,13 +51,13 @@
       "identifier": "025072802",
       "sector": "",
       "status": "changed",
-      "quantity_today": 498339.0,
-      "quantity_prior": 496722.0,
-      "quantity_pct_change": 0.3255,
-      "pct_of_fund_today": 6.76,
-      "pct_of_fund_prior": 6.79,
-      "pct_of_fund_change": -0.03,
-      "market_value_today": 53486724.87
+      "quantity_today": 498651.0,
+      "quantity_prior": 498339.0,
+      "quantity_pct_change": 0.0626,
+      "pct_of_fund_today": 6.74,
+      "pct_of_fund_prior": 6.76,
+      "pct_of_fund_change": -0.02,
+      "market_value_today": 53629915.05
     },
     {
       "ticker": "AVEE",
@@ -65,13 +65,13 @@
       "identifier": "025072141",
       "sector": "",
       "status": "changed",
-      "quantity_today": 255539.0,
-      "quantity_prior": 253628.0,
-      "quantity_pct_change": 0.7535,
+      "quantity_today": 255903.0,
+      "quantity_prior": 255539.0,
+      "quantity_pct_change": 0.1424,
       "pct_of_fund_today": 2.17,
-      "pct_of_fund_prior": 2.15,
-      "pct_of_fund_change": 0.02,
-      "market_value_today": 17153055.38
+      "pct_of_fund_prior": 2.17,
+      "pct_of_fund_change": 0.0,
+      "market_value_today": 17242744.14
     },
     {
       "ticker": "AVEM",
@@ -79,13 +79,13 @@
       "identifier": "025072604",
       "sector": "",
       "status": "changed",
-      "quantity_today": 1609913.0,
-      "quantity_prior": 1601261.0,
-      "quantity_pct_change": 0.5403,
-      "pct_of_fund_today": 18.2,
-      "pct_of_fund_prior": 18.04,
-      "pct_of_fund_change": 0.16,
-      "market_value_today": 143990618.72
+      "quantity_today": 1611553.0,
+      "quantity_prior": 1609913.0,
+      "quantity_pct_change": 0.1019,
+      "pct_of_fund_today": 18.15,
+      "pct_of_fund_prior": 18.2,
+      "pct_of_fund_change": -0.05,
+      "market_value_today": 144330686.68
     },
     {
       "ticker": "AVES",
@@ -93,13 +93,13 @@
       "identifier": "025072372",
       "sector": "",
       "status": "changed",
-      "quantity_today": 1220677.0,
-      "quantity_prior": 1214608.0,
-      "quantity_pct_change": 0.4997,
-      "pct_of_fund_today": 9.82,
-      "pct_of_fund_prior": 9.77,
-      "pct_of_fund_change": 0.05,
-      "market_value_today": 77683884.28
+      "quantity_today": 1221829.0,
+      "quantity_prior": 1220677.0,
+      "quantity_pct_change": 0.0944,
+      "pct_of_fund_today": 9.77,
+      "pct_of_fund_prior": 9.82,
+      "pct_of_fund_change": -0.05,
+      "market_value_today": 77708324.4
     },
     {
       "ticker": "AVIV",
@@ -107,13 +107,13 @@
       "identifier": "025072364",
       "sector": "",
       "status": "changed",
-      "quantity_today": 2043964.0,
-      "quantity_prior": 2032960.0,
-      "quantity_pct_change": 0.5413,
-      "pct_of_fund_today": 20.58,
-      "pct_of_fund_prior": 20.66,
-      "pct_of_fund_change": -0.08,
-      "market_value_today": 162781292.96
+      "quantity_today": 2046076.0,
+      "quantity_prior": 2043964.0,
+      "quantity_pct_change": 0.1033,
+      "pct_of_fund_today": 20.63,
+      "pct_of_fund_prior": 20.58,
+      "pct_of_fund_change": 0.05,
+      "market_value_today": 164115755.96
     }
   ]
 }
