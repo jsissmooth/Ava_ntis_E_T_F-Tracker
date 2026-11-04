@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "ticker": "AVGV",
   "holdings": [
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -34,8 +34,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -43,17 +43,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -63,33 +63,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -97,8 +106,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -106,17 +115,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -126,33 +135,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -160,8 +178,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -169,17 +187,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -189,33 +207,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -223,8 +250,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -232,17 +259,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -252,33 +279,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -286,8 +322,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -295,17 +331,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -315,33 +351,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -349,8 +394,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -358,17 +403,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -378,33 +423,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -412,8 +466,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -421,17 +475,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -441,33 +495,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -475,8 +538,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -484,17 +547,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -504,33 +567,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -538,8 +610,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -547,17 +619,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -567,33 +639,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -601,8 +682,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -610,17 +691,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -630,33 +711,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -664,8 +754,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -673,17 +763,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -693,33 +783,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -727,8 +826,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -736,17 +835,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -756,33 +855,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -790,8 +898,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -799,17 +907,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -819,33 +927,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -853,8 +970,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -862,17 +979,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -882,33 +999,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -916,8 +1042,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -925,17 +1051,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -945,33 +1071,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -979,8 +1114,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -988,17 +1123,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1008,33 +1143,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1042,8 +1186,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1051,17 +1195,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1071,33 +1215,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1105,8 +1258,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1114,17 +1267,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1134,33 +1287,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1168,8 +1330,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1177,17 +1339,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1197,33 +1359,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1231,8 +1402,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1240,17 +1411,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1260,33 +1431,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1294,8 +1474,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1303,17 +1483,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1323,33 +1503,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1357,8 +1546,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1366,17 +1555,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1386,33 +1575,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1420,8 +1618,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1429,17 +1627,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1449,33 +1647,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1483,8 +1690,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1492,17 +1699,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1512,33 +1719,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1546,8 +1762,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1555,17 +1771,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1575,33 +1791,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1609,8 +1834,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1618,17 +1843,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1638,33 +1863,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1672,8 +1906,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1681,17 +1915,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1701,33 +1935,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1735,8 +1978,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1744,17 +1987,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1764,33 +2007,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1798,8 +2050,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1807,17 +2059,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1827,33 +2079,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1861,8 +2122,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1870,17 +2131,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1890,33 +2151,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1924,8 +2194,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1933,17 +2203,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -1953,33 +2223,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -1987,8 +2266,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -1996,17 +2275,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2016,33 +2295,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2050,8 +2338,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2059,17 +2347,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2079,33 +2367,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2113,8 +2410,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2122,17 +2419,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2142,33 +2439,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2176,8 +2482,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2185,17 +2491,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2205,33 +2511,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2239,8 +2554,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2248,17 +2563,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2268,33 +2583,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2302,8 +2626,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2311,17 +2635,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2331,33 +2655,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2365,8 +2698,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2374,17 +2707,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2394,33 +2727,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2428,8 +2770,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2437,17 +2779,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2457,33 +2799,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2491,8 +2842,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2500,17 +2851,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2520,33 +2871,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2554,8 +2914,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2563,17 +2923,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2583,33 +2943,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2617,8 +2986,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2626,17 +2995,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2646,33 +3015,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2680,8 +3058,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2689,17 +3067,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2709,33 +3087,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2743,8 +3130,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2752,17 +3139,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2772,33 +3159,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2806,8 +3202,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2815,17 +3211,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2835,33 +3231,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2869,8 +3274,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2878,17 +3283,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2898,33 +3303,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2932,8 +3346,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -2941,17 +3355,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -2961,33 +3375,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -2995,8 +3418,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -3004,17 +3427,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -3024,33 +3447,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -3058,8 +3490,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -3067,17 +3499,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -3087,33 +3519,42 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     },
     {
       "ticker": "AVLV",
       "name": "AVANTIS US LARGE CAP VALUE ETF AVANTIS US LARGE CAP VALUE",
       "identifier": "025072349",
-      "pct_of_fund": 37.66,
-      "quantity": 1932199.0,
-      "market_value": 181626706.0,
+      "pct_of_fund": 37.76,
+      "quantity": 1953701.0,
+      "market_value": 183139931.74,
       "sector": ""
     },
     {
       "ticker": "AVUV",
       "name": "AVANTIS U.S. SMALL CAP VALUE E AVANTIS US SMALL CAP VALUE",
       "identifier": "025072877",
-      "pct_of_fund": 18.25,
-      "quantity": 709940.0,
-      "market_value": 88011261.8,
+      "pct_of_fund": 18.18,
+      "quantity": 718078.0,
+      "market_value": 88179978.4,
       "sector": ""
     },
     {
       "ticker": "AVIV",
       "name": "AVANTIS INTERNATIONAL LARGE CA AVANTIS INTL LRG CAP VAL ETF",
       "identifier": "025072364",
-      "pct_of_fund": 17.62,
-      "quantity": 1070588.0,
-      "market_value": 84993981.32,
+      "pct_of_fund": 17.59,
+      "quantity": 1083094.0,
+      "market_value": 85325495.46,
       "sector": ""
     },
     {
@@ -3121,8 +3562,8 @@
       "name": "AVANTIS EMERGING MARKETS VALUE AVANTIS EMERGING MARKETS VAL",
       "identifier": "025072372",
       "pct_of_fund": 9.75,
-      "quantity": 779537.0,
-      "market_value": 47006081.1,
+      "quantity": 789547.0,
+      "market_value": 47301760.77,
       "sector": ""
     },
     {
@@ -3130,17 +3571,17 @@
       "name": "AVANTIS INTERNATIONAL SMALL CA AVANTIS INTL S/C VALUE ETF",
       "identifier": "025072802",
       "pct_of_fund": 9.07,
-      "quantity": 415466.0,
-      "market_value": 43736105.82,
+      "quantity": 420198.0,
+      "market_value": 43973720.7,
       "sector": ""
     },
     {
       "ticker": "AVMV",
       "name": "AVANTIS US MID CAP VALUE ETF AVANTIS US MID CAP VAL ETF",
       "identifier": "025072133",
-      "pct_of_fund": 7.56,
-      "quantity": 451771.0,
-      "market_value": 36480508.25,
+      "pct_of_fund": 7.57,
+      "quantity": 457127.0,
+      "market_value": 36725583.18,
       "sector": ""
     },
     {
@@ -3150,6 +3591,15 @@
       "pct_of_fund": 0.08,
       "quantity": 390421.0,
       "market_value": 390420.53,
+      "sector": ""
+    },
+    {
+      "ticker": "--",
+      "name": "US DOLLAR",
+      "identifier": "999USDZ92",
+      "pct_of_fund": 0.0,
+      "quantity": 10791.0,
+      "market_value": 10791.0,
       "sector": ""
     }
   ]
