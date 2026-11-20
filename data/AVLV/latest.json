@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "ticker": "AVLV",
   "holdings": [
     {
@@ -7,134 +7,134 @@
       "name": "MICROSOFT CORP COMMON STOCK USD.00000625",
       "identifier": "594918104",
       "pct_of_fund": 3.39,
-      "quantity": 1510853.0,
-      "market_value": 766470835.43,
-      "sector": ""
-    },
-    {
-      "ticker": "AMZN",
-      "name": "AMAZON.COM INC COMMON STOCK USD.01",
-      "identifier": "023135106",
-      "pct_of_fund": 3.14,
-      "quantity": 2655775.0,
-      "market_value": 711057198.5,
+      "quantity": 1512555.0,
+      "market_value": 753706156.5,
       "sector": ""
     },
     {
       "ticker": "AAPL",
       "name": "APPLE INC COMMON STOCK USD.00001",
       "identifier": "037833100",
-      "pct_of_fund": 3.05,
-      "quantity": 1957871.0,
-      "market_value": 690051633.95,
+      "pct_of_fund": 3.08,
+      "quantity": 1960838.0,
+      "market_value": 684744237.98,
+      "sector": ""
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMAZON.COM INC COMMON STOCK USD.01",
+      "identifier": "023135106",
+      "pct_of_fund": 3.08,
+      "quantity": 2659156.0,
+      "market_value": 684386979.72,
       "sector": ""
     },
     {
       "ticker": "META",
       "name": "META PLATFORMS INC CLASS A COMMON STOCK USD.000006",
       "identifier": "30303M102",
-      "pct_of_fund": 2.98,
-      "quantity": 1092942.0,
-      "market_value": 673667589.96,
+      "pct_of_fund": 2.93,
+      "quantity": 1094575.0,
+      "market_value": 652607506.5,
       "sector": ""
     },
     {
       "ticker": "JPM",
       "name": "JPMORGAN CHASE + CO COMMON STOCK USD1.0",
       "identifier": "46625H100",
-      "pct_of_fund": 2.62,
+      "pct_of_fund": 2.63,
       "quantity": 1825667.0,
-      "market_value": 591716931.37,
+      "market_value": 584615086.74,
       "sector": ""
     },
     {
       "ticker": "MU",
       "name": "MICRON TECHNOLOGY INC COMMON STOCK USD.1",
       "identifier": "595112103",
-      "pct_of_fund": 2.41,
-      "quantity": 771445.0,
-      "market_value": 544077015.15,
+      "pct_of_fund": 2.58,
+      "quantity": 832212.0,
+      "market_value": 574592453.28,
       "sector": ""
     },
     {
       "ticker": "COST",
       "name": "COSTCO WHOLESALE CORP COMMON STOCK USD.005",
       "identifier": "22160K105",
-      "pct_of_fund": 2.31,
+      "pct_of_fund": 2.34,
       "quantity": 476433.0,
-      "market_value": 522465956.46,
+      "market_value": 521136708.39,
       "sector": ""
     },
     {
       "ticker": "XOM",
       "name": "EXXONMOBIL HOLDINGS CORP COMMON STOCK",
       "identifier": "30233Q108",
-      "pct_of_fund": 2.3,
-      "quantity": 3239259.0,
-      "market_value": 520160210.22,
+      "pct_of_fund": 2.32,
+      "quantity": 3241559.0,
+      "market_value": 515180971.87,
       "sector": ""
     },
     {
       "ticker": "LLY",
       "name": "ELI LILLY + CO COMMON STOCK",
       "identifier": "532457108",
-      "pct_of_fund": 1.95,
+      "pct_of_fund": 1.94,
       "quantity": 319017.0,
-      "market_value": 441120756.75,
+      "market_value": 431030249.04,
       "sector": ""
     },
     {
       "ticker": "UNP",
       "name": "UNION PACIFIC CORP COMMON STOCK USD2.5",
       "identifier": "907818108",
-      "pct_of_fund": 1.74,
-      "quantity": 1306203.0,
-      "market_value": 393036482.7,
+      "pct_of_fund": 1.71,
+      "quantity": 1307951.0,
+      "market_value": 380129799.13,
       "sector": ""
     },
     {
       "ticker": "VZ",
       "name": "VERIZON COMMUNICATIONS INC COMMON STOCK USD.1",
       "identifier": "92343V104",
-      "pct_of_fund": 1.68,
-      "quantity": 8250361.0,
-      "market_value": 380589152.93,
+      "pct_of_fund": 1.71,
+      "quantity": 8298766.0,
+      "market_value": 379585556.84,
       "sector": ""
     },
     {
       "ticker": "WFC",
       "name": "WELLS FARGO + CO COMMON STOCK USD1.666",
       "identifier": "949746101",
-      "pct_of_fund": 1.42,
-      "quantity": 3969849.0,
-      "market_value": 321240181.08,
-      "sector": ""
-    },
-    {
-      "ticker": "MS",
-      "name": "MORGAN STANLEY COMMON STOCK USD.01",
-      "identifier": "617446448",
-      "pct_of_fund": 1.4,
-      "quantity": 1747664.0,
-      "market_value": 316624286.88,
+      "pct_of_fund": 1.44,
+      "quantity": 3977416.0,
+      "market_value": 320619503.76,
       "sector": ""
     },
     {
       "ticker": "TJX",
       "name": "TJX COMPANIES INC COMMON STOCK USD1.0",
       "identifier": "872540109",
-      "pct_of_fund": 1.32,
-      "quantity": 2132011.0,
-      "market_value": 299121143.3,
+      "pct_of_fund": 1.38,
+      "quantity": 2196076.0,
+      "market_value": 306154955.16,
+      "sector": ""
+    },
+    {
+      "ticker": "MS",
+      "name": "MORGAN STANLEY COMMON STOCK USD.01",
+      "identifier": "617446448",
+      "pct_of_fund": 1.38,
+      "quantity": 1749067.0,
+      "market_value": 306051743.66,
       "sector": ""
     },
     {
       "ticker": "PGR",
       "name": "PROGRESSIVE CORP COMMON STOCK USD1.0",
       "identifier": "743315103",
-      "pct_of_fund": 1.27,
-      "quantity": 1255035.0,
-      "market_value": 286737846.45,
+      "pct_of_fund": 1.3,
+      "quantity": 1256990.0,
+      "market_value": 289057420.4,
       "sector": ""
     },
     {
@@ -142,107 +142,107 @@
       "name": "AMERICAN EXPRESS CO COMMON STOCK USD.2",
       "identifier": "025816109",
       "pct_of_fund": 1.23,
-      "quantity": 878206.0,
-      "market_value": 276986172.4,
+      "quantity": 880115.0,
+      "market_value": 273812577.65,
       "sector": ""
     },
     {
       "ticker": "TGT",
       "name": "TARGET CORP COMMON STOCK USD.0833",
       "identifier": "87612E106",
-      "pct_of_fund": 1.18,
-      "quantity": 1602422.0,
-      "market_value": 265889882.46,
-      "sector": ""
-    },
-    {
-      "ticker": "CSX",
-      "name": "CSX CORP COMMON STOCK USD1.0",
-      "identifier": "126408103",
-      "pct_of_fund": 1.16,
-      "quantity": 5110131.0,
-      "market_value": 262303024.23,
+      "pct_of_fund": 1.21,
+      "quantity": 1605021.0,
+      "market_value": 268776816.66,
       "sector": ""
     },
     {
       "ticker": "COP",
       "name": "CONOCOPHILLIPS COMMON STOCK USD.01",
       "identifier": "20825C104",
-      "pct_of_fund": 1.16,
-      "quantity": 1943382.0,
-      "market_value": 261190540.8,
+      "pct_of_fund": 1.18,
+      "quantity": 1943911.0,
+      "market_value": 262408545.89,
+      "sector": ""
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX CORP COMMON STOCK USD1.0",
+      "identifier": "126408103",
+      "pct_of_fund": 1.15,
+      "quantity": 5117123.0,
+      "market_value": 255753807.54,
       "sector": ""
     },
     {
       "ticker": "TRV",
       "name": "TRAVELERS COS INC/THE COMMON STOCK",
       "identifier": "89417E109",
-      "pct_of_fund": 1.11,
-      "quantity": 638014.0,
-      "market_value": 249833522.12,
-      "sector": ""
-    },
-    {
-      "ticker": "SCHW",
-      "name": "SCHWAB (CHARLES) CORP COMMON STOCK USD.01",
-      "identifier": "808513105",
-      "pct_of_fund": 1.06,
-      "quantity": 2596172.0,
-      "market_value": 240301680.32,
+      "pct_of_fund": 1.12,
+      "quantity": 638911.0,
+      "market_value": 249565025.71,
       "sector": ""
     },
     {
       "ticker": "NFLX",
       "name": "NETFLIX INC COMMON STOCK USD.001",
       "identifier": "64110L106",
-      "pct_of_fund": 1.04,
-      "quantity": 3944112.0,
-      "market_value": 235936779.84,
+      "pct_of_fund": 1.11,
+      "quantity": 4221724.0,
+      "market_value": 246801985.04,
+      "sector": ""
+    },
+    {
+      "ticker": "SCHW",
+      "name": "SCHWAB (CHARLES) CORP COMMON STOCK USD.01",
+      "identifier": "808513105",
+      "pct_of_fund": 1.08,
+      "quantity": 2602106.0,
+      "market_value": 239706004.72,
       "sector": ""
     },
     {
       "ticker": "CVX",
       "name": "CHEVRON CORP COMMON STOCK USD.75",
       "identifier": "166764100",
-      "pct_of_fund": 1.03,
-      "quantity": 1126965.0,
-      "market_value": 232019554.2,
+      "pct_of_fund": 1.05,
+      "quantity": 1132393.0,
+      "market_value": 233839154.5,
       "sector": ""
     },
     {
       "ticker": "GM",
       "name": "GENERAL MOTORS CO COMMON STOCK USD.01",
       "identifier": "37045V100",
-      "pct_of_fund": 1.03,
-      "quantity": 2823369.0,
-      "market_value": 231883295.97,
+      "pct_of_fund": 1.04,
+      "quantity": 2827670.0,
+      "market_value": 231162022.5,
       "sector": ""
     },
     {
       "ticker": "ALL",
       "name": "ALLSTATE CORP COMMON STOCK USD.01",
       "identifier": "020002101",
-      "pct_of_fund": 0.97,
-      "quantity": 819417.0,
-      "market_value": 218448378.03,
+      "pct_of_fund": 0.98,
+      "quantity": 820176.0,
+      "market_value": 218798351.52,
       "sector": ""
     },
     {
       "ticker": "RCL",
       "name": "ROYAL CARIBBEAN CRUISES LTD COMMON STOCK USD.01",
       "identifier": "V7780T103",
-      "pct_of_fund": 0.97,
-      "quantity": 680893.0,
-      "market_value": 218328340.45,
+      "pct_of_fund": 0.93,
+      "quantity": 682066.0,
+      "market_value": 206768307.9,
       "sector": ""
     },
     {
       "ticker": "ROST",
       "name": "ROSS STORES INC COMMON STOCK USD.01",
       "identifier": "778296103",
-      "pct_of_fund": 0.93,
-      "quantity": 923670.0,
-      "market_value": 210264238.8,
+      "pct_of_fund": 0.91,
+      "quantity": 925004.0,
+      "market_value": 203389879.52,
       "sector": ""
     },
     {
@@ -250,17 +250,17 @@
       "name": "MARATHON PETROLEUM CORP COMMON STOCK USD.01",
       "identifier": "56585A102",
       "pct_of_fund": 0.9,
-      "quantity": 544534.0,
-      "market_value": 203579481.24,
+      "quantity": 544948.0,
+      "market_value": 200502717.64,
       "sector": ""
     },
     {
       "ticker": "EOG",
       "name": "EOG RESOURCES INC COMMON STOCK USD.01",
       "identifier": "26875P101",
-      "pct_of_fund": 0.87,
+      "pct_of_fund": 0.88,
       "quantity": 1309088.0,
-      "market_value": 195957382.72,
+      "market_value": 195695565.12,
       "sector": ""
     },
     {
@@ -268,17 +268,17 @@
       "name": "UNITED PARCEL SERVICE CL B COMMON STOCK USD.01",
       "identifier": "911312106",
       "pct_of_fund": 0.86,
-      "quantity": 1749844.0,
-      "market_value": 194285179.32,
+      "quantity": 1754766.0,
+      "market_value": 191462518.26,
       "sector": ""
     },
     {
       "ticker": "DAL",
       "name": "DELTA AIR LINES INC COMMON STOCK USD.0001",
       "identifier": "247361702",
-      "pct_of_fund": 0.84,
-      "quantity": 2227032.0,
-      "market_value": 189030476.16,
+      "pct_of_fund": 0.83,
+      "quantity": 2229608.0,
+      "market_value": 185436497.36,
       "sector": ""
     },
     {
@@ -286,35 +286,26 @@
       "name": "WW GRAINGER INC COMMON STOCK USD.5",
       "identifier": "384802104",
       "pct_of_fund": 0.83,
-      "quantity": 129775.0,
-      "market_value": 187929773.0,
-      "sector": ""
-    },
-    {
-      "ticker": "COF",
-      "name": "CAPITAL ONE FINANCIAL CORP COMMON STOCK USD.01",
-      "identifier": "14040H105",
-      "pct_of_fund": 0.76,
-      "quantity": 934450.0,
-      "market_value": 172219135.0,
+      "quantity": 129913.0,
+      "market_value": 184980522.44,
       "sector": ""
     },
     {
       "ticker": "CB",
       "name": "CHUBB LTD COMMON STOCK",
       "identifier": "H1467J104",
-      "pct_of_fund": 0.76,
-      "quantity": 462818.0,
-      "market_value": 171714734.36,
+      "pct_of_fund": 0.8,
+      "quantity": 477777.0,
+      "market_value": 176830045.47,
       "sector": ""
     },
     {
-      "ticker": "QCOM",
-      "name": "QUALCOMM INC COMMON STOCK USD.0001",
-      "identifier": "747525103",
-      "pct_of_fund": 0.76,
-      "quantity": 1072268.0,
-      "market_value": 171359149.08,
+      "ticker": "COF",
+      "name": "CAPITAL ONE FINANCIAL CORP COMMON STOCK USD.01",
+      "identifier": "14040H105",
+      "pct_of_fund": 0.78,
+      "quantity": 951477.0,
+      "market_value": 172940459.52,
       "sector": ""
     },
     {
@@ -323,16 +314,25 @@
       "identifier": "87612G101",
       "pct_of_fund": 0.75,
       "quantity": 584132.0,
-      "market_value": 169497582.44,
+      "market_value": 166722955.44,
       "sector": ""
     },
     {
       "ticker": "FDX",
       "name": "FEDEX CORP COMMON STOCK USD.1",
       "identifier": "31428X106",
-      "pct_of_fund": 0.74,
-      "quantity": 527980.0,
-      "market_value": 168061313.8,
+      "pct_of_fund": 0.75,
+      "quantity": 528992.0,
+      "market_value": 166442042.88,
+      "sector": ""
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM INC COMMON STOCK USD.0001",
+      "identifier": "747525103",
+      "pct_of_fund": 0.75,
+      "quantity": 1025337.0,
+      "market_value": 166114847.37,
       "sector": ""
     },
     {
@@ -340,8 +340,8 @@
       "name": "WILLIAMS COS INC COMMON STOCK USD1.0",
       "identifier": "969457100",
       "pct_of_fund": 0.7,
-      "quantity": 2339183.0,
-      "market_value": 157263273.09,
+      "quantity": 2340862.0,
+      "market_value": 154801204.06,
       "sector": ""
     },
     {
@@ -349,35 +349,35 @@
       "name": "AMERIPRISE FINANCIAL INC COMMON STOCK USD.01",
       "identifier": "03076C106",
       "pct_of_fund": 0.68,
-      "quantity": 308057.0,
-      "market_value": 154465940.94,
+      "quantity": 308356.0,
+      "market_value": 151822160.16,
       "sector": ""
     },
     {
       "ticker": "CNC",
       "name": "CENTENE CORP COMMON STOCK USD.001",
       "identifier": "15135B101",
-      "pct_of_fund": 0.68,
-      "quantity": 2275142.0,
-      "market_value": 153458327.9,
+      "pct_of_fund": 0.67,
+      "quantity": 2276039.0,
+      "market_value": 149262637.62,
       "sector": ""
     },
     {
       "ticker": "DE",
       "name": "DEERE + CO COMMON STOCK USD1.0",
       "identifier": "244199105",
-      "pct_of_fund": 0.66,
+      "pct_of_fund": 0.65,
       "quantity": 230432.0,
-      "market_value": 148571032.0,
+      "market_value": 143994652.48,
       "sector": ""
     },
     {
       "ticker": "LNG",
       "name": "CHENIERE ENERGY INC COMMON STOCK USD.003",
       "identifier": "16411R208",
-      "pct_of_fund": 0.63,
-      "quantity": 478218.0,
-      "market_value": 141786854.82,
+      "pct_of_fund": 0.64,
+      "quantity": 478425.0,
+      "market_value": 141312392.25,
       "sector": ""
     },
     {
@@ -385,8 +385,8 @@
       "name": "CHIPOTLE MEXICAN GRILL INC COMMON STOCK USD.01",
       "identifier": "169656105",
       "pct_of_fund": 0.63,
-      "quantity": 3825275.0,
-      "market_value": 141343911.25,
+      "quantity": 3834705.0,
+      "market_value": 139199791.5,
       "sector": ""
     },
     {
@@ -394,26 +394,17 @@
       "name": "KROGER CO COMMON STOCK USD1.0",
       "identifier": "501044101",
       "pct_of_fund": 0.62,
-      "quantity": 2038448.0,
-      "market_value": 140754834.4,
+      "quantity": 2040725.0,
+      "market_value": 138646856.5,
       "sector": ""
     },
     {
       "ticker": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC COMMON STOCK USD.01",
       "identifier": "910047109",
-      "pct_of_fund": 0.62,
-      "quantity": 1293111.0,
-      "market_value": 139177536.93,
-      "sector": ""
-    },
-    {
-      "ticker": "CCL",
-      "name": "CARNIVAL CORP LTD COMMON STOCK USD.01",
-      "identifier": "G2004J103",
       "pct_of_fund": 0.61,
-      "quantity": 4773098.0,
-      "market_value": 138276649.06,
+      "quantity": 1295158.0,
+      "market_value": 136678023.74,
       "sector": ""
     },
     {
@@ -421,26 +412,26 @@
       "name": "PRUDENTIAL FINANCIAL INC COMMON STOCK USD.01",
       "identifier": "744320102",
       "pct_of_fund": 0.6,
-      "quantity": 1116161.0,
-      "market_value": 135658207.94,
-      "sector": ""
-    },
-    {
-      "ticker": "FCX",
-      "name": "FREEPORT MCMORAN INC COMMON STOCK USD.1",
-      "identifier": "35671D857",
-      "pct_of_fund": 0.6,
-      "quantity": 2615044.0,
-      "market_value": 134544013.8,
+      "quantity": 1117840.0,
+      "market_value": 134476152.0,
       "sector": ""
     },
     {
       "ticker": "CMCSA",
       "name": "COMCAST CORP CLASS A COMMON STOCK USD.01",
       "identifier": "20030N101",
+      "pct_of_fund": 0.6,
+      "quantity": 5323311.0,
+      "market_value": 132337511.46,
+      "sector": ""
+    },
+    {
+      "ticker": "CCL",
+      "name": "CARNIVAL CORP LTD COMMON STOCK USD.01",
+      "identifier": "G2004J103",
       "pct_of_fund": 0.59,
-      "quantity": 5317469.0,
-      "market_value": 134212917.56,
+      "quantity": 4781838.0,
+      "market_value": 131835273.66,
       "sector": ""
     },
     {
@@ -448,8 +439,17 @@
       "name": "VALERO ENERGY CORP COMMON STOCK USD.01",
       "identifier": "91913Y100",
       "pct_of_fund": 0.59,
-      "quantity": 387801.0,
-      "market_value": 133287203.7,
+      "quantity": 389250.0,
+      "market_value": 131745555.0,
+      "sector": ""
+    },
+    {
+      "ticker": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC COMMON STOCK USD.01",
+      "identifier": "416515104",
+      "pct_of_fund": 0.59,
+      "quantity": 962332.0,
+      "market_value": 130472972.56,
       "sector": ""
     },
     {
@@ -457,134 +457,134 @@
       "name": "MICROSOFT CORP COMMON STOCK USD.00000625",
       "identifier": "594918104",
       "pct_of_fund": 3.39,
-      "quantity": 1510853.0,
-      "market_value": 766470835.43,
-      "sector": ""
-    },
-    {
-      "ticker": "AMZN",
-      "name": "AMAZON.COM INC COMMON STOCK USD.01",
-      "identifier": "023135106",
-      "pct_of_fund": 3.14,
-      "quantity": 2655775.0,
-      "market_value": 711057198.5,
+      "quantity": 1512555.0,
+      "market_value": 753706156.5,
       "sector": ""
     },
     {
       "ticker": "AAPL",
       "name": "APPLE INC COMMON STOCK USD.00001",
       "identifier": "037833100",
-      "pct_of_fund": 3.05,
-      "quantity": 1957871.0,
-      "market_value": 690051633.95,
+      "pct_of_fund": 3.08,
+      "quantity": 1960838.0,
+      "market_value": 684744237.98,
+      "sector": ""
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMAZON.COM INC COMMON STOCK USD.01",
+      "identifier": "023135106",
+      "pct_of_fund": 3.08,
+      "quantity": 2659156.0,
+      "market_value": 684386979.72,
       "sector": ""
     },
     {
       "ticker": "META",
       "name": "META PLATFORMS INC CLASS A COMMON STOCK USD.000006",
       "identifier": "30303M102",
-      "pct_of_fund": 2.98,
-      "quantity": 1092942.0,
-      "market_value": 673667589.96,
+      "pct_of_fund": 2.93,
+      "quantity": 1094575.0,
+      "market_value": 652607506.5,
       "sector": ""
     },
     {
       "ticker": "JPM",
       "name": "JPMORGAN CHASE + CO COMMON STOCK USD1.0",
       "identifier": "46625H100",
-      "pct_of_fund": 2.62,
+      "pct_of_fund": 2.63,
       "quantity": 1825667.0,
-      "market_value": 591716931.37,
+      "market_value": 584615086.74,
       "sector": ""
     },
     {
       "ticker": "MU",
       "name": "MICRON TECHNOLOGY INC COMMON STOCK USD.1",
       "identifier": "595112103",
-      "pct_of_fund": 2.41,
-      "quantity": 771445.0,
-      "market_value": 544077015.15,
+      "pct_of_fund": 2.58,
+      "quantity": 832212.0,
+      "market_value": 574592453.28,
       "sector": ""
     },
     {
       "ticker": "COST",
       "name": "COSTCO WHOLESALE CORP COMMON STOCK USD.005",
       "identifier": "22160K105",
-      "pct_of_fund": 2.31,
+      "pct_of_fund": 2.34,
       "quantity": 476433.0,
-      "market_value": 522465956.46,
+      "market_value": 521136708.39,
       "sector": ""
     },
     {
       "ticker": "XOM",
       "name": "EXXONMOBIL HOLDINGS CORP COMMON STOCK",
       "identifier": "30233Q108",
-      "pct_of_fund": 2.3,
-      "quantity": 3239259.0,
-      "market_value": 520160210.22,
+      "pct_of_fund": 2.32,
+      "quantity": 3241559.0,
+      "market_value": 515180971.87,
       "sector": ""
     },
     {
       "ticker": "LLY",
       "name": "ELI LILLY + CO COMMON STOCK",
       "identifier": "532457108",
-      "pct_of_fund": 1.95,
+      "pct_of_fund": 1.94,
       "quantity": 319017.0,
-      "market_value": 441120756.75,
+      "market_value": 431030249.04,
       "sector": ""
     },
     {
       "ticker": "UNP",
       "name": "UNION PACIFIC CORP COMMON STOCK USD2.5",
       "identifier": "907818108",
-      "pct_of_fund": 1.74,
-      "quantity": 1306203.0,
-      "market_value": 393036482.7,
+      "pct_of_fund": 1.71,
+      "quantity": 1307951.0,
+      "market_value": 380129799.13,
       "sector": ""
     },
     {
       "ticker": "VZ",
       "name": "VERIZON COMMUNICATIONS INC COMMON STOCK USD.1",
       "identifier": "92343V104",
-      "pct_of_fund": 1.68,
-      "quantity": 8250361.0,
-      "market_value": 380589152.93,
+      "pct_of_fund": 1.71,
+      "quantity": 8298766.0,
+      "market_value": 379585556.84,
       "sector": ""
     },
     {
       "ticker": "WFC",
       "name": "WELLS FARGO + CO COMMON STOCK USD1.666",
       "identifier": "949746101",
-      "pct_of_fund": 1.42,
-      "quantity": 3969849.0,
-      "market_value": 321240181.08,
-      "sector": ""
-    },
-    {
-      "ticker": "MS",
-      "name": "MORGAN STANLEY COMMON STOCK USD.01",
-      "identifier": "617446448",
-      "pct_of_fund": 1.4,
-      "quantity": 1747664.0,
-      "market_value": 316624286.88,
+      "pct_of_fund": 1.44,
+      "quantity": 3977416.0,
+      "market_value": 320619503.76,
       "sector": ""
     },
     {
       "ticker": "TJX",
       "name": "TJX COMPANIES INC COMMON STOCK USD1.0",
       "identifier": "872540109",
-      "pct_of_fund": 1.32,
-      "quantity": 2132011.0,
-      "market_value": 299121143.3,
+      "pct_of_fund": 1.38,
+      "quantity": 2196076.0,
+      "market_value": 306154955.16,
+      "sector": ""
+    },
+    {
+      "ticker": "MS",
+      "name": "MORGAN STANLEY COMMON STOCK USD.01",
+      "identifier": "617446448",
+      "pct_of_fund": 1.38,
+      "quantity": 1749067.0,
+      "market_value": 306051743.66,
       "sector": ""
     },
     {
       "ticker": "PGR",
       "name": "PROGRESSIVE CORP COMMON STOCK USD1.0",
       "identifier": "743315103",
-      "pct_of_fund": 1.27,
-      "quantity": 1255035.0,
-      "market_value": 286737846.45,
+      "pct_of_fund": 1.3,
+      "quantity": 1256990.0,
+      "market_value": 289057420.4,
       "sector": ""
     },
     {
@@ -592,107 +592,107 @@
       "name": "AMERICAN EXPRESS CO COMMON STOCK USD.2",
       "identifier": "025816109",
       "pct_of_fund": 1.23,
-      "quantity": 878206.0,
-      "market_value": 276986172.4,
+      "quantity": 880115.0,
+      "market_value": 273812577.65,
       "sector": ""
     },
     {
       "ticker": "TGT",
       "name": "TARGET CORP COMMON STOCK USD.0833",
       "identifier": "87612E106",
-      "pct_of_fund": 1.18,
-      "quantity": 1602422.0,
-      "market_value": 265889882.46,
-      "sector": ""
-    },
-    {
-      "ticker": "CSX",
-      "name": "CSX CORP COMMON STOCK USD1.0",
-      "identifier": "126408103",
-      "pct_of_fund": 1.16,
-      "quantity": 5110131.0,
-      "market_value": 262303024.23,
+      "pct_of_fund": 1.21,
+      "quantity": 1605021.0,
+      "market_value": 268776816.66,
       "sector": ""
     },
     {
       "ticker": "COP",
       "name": "CONOCOPHILLIPS COMMON STOCK USD.01",
       "identifier": "20825C104",
-      "pct_of_fund": 1.16,
-      "quantity": 1943382.0,
-      "market_value": 261190540.8,
+      "pct_of_fund": 1.18,
+      "quantity": 1943911.0,
+      "market_value": 262408545.89,
+      "sector": ""
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX CORP COMMON STOCK USD1.0",
+      "identifier": "126408103",
+      "pct_of_fund": 1.15,
+      "quantity": 5117123.0,
+      "market_value": 255753807.54,
       "sector": ""
     },
     {
       "ticker": "TRV",
       "name": "TRAVELERS COS INC/THE COMMON STOCK",
       "identifier": "89417E109",
-      "pct_of_fund": 1.11,
-      "quantity": 638014.0,
-      "market_value": 249833522.12,
-      "sector": ""
-    },
-    {
-      "ticker": "SCHW",
-      "name": "SCHWAB (CHARLES) CORP COMMON STOCK USD.01",
-      "identifier": "808513105",
-      "pct_of_fund": 1.06,
-      "quantity": 2596172.0,
-      "market_value": 240301680.32,
+      "pct_of_fund": 1.12,
+      "quantity": 638911.0,
+      "market_value": 249565025.71,
       "sector": ""
     },
     {
       "ticker": "NFLX",
       "name": "NETFLIX INC COMMON STOCK USD.001",
       "identifier": "64110L106",
-      "pct_of_fund": 1.04,
-      "quantity": 3944112.0,
-      "market_value": 235936779.84,
+      "pct_of_fund": 1.11,
+      "quantity": 4221724.0,
+      "market_value": 246801985.04,
+      "sector": ""
+    },
+    {
+      "ticker": "SCHW",
+      "name": "SCHWAB (CHARLES) CORP COMMON STOCK USD.01",
+      "identifier": "808513105",
+      "pct_of_fund": 1.08,
+      "quantity": 2602106.0,
+      "market_value": 239706004.72,
       "sector": ""
     },
     {
       "ticker": "CVX",
       "name": "CHEVRON CORP COMMON STOCK USD.75",
       "identifier": "166764100",
-      "pct_of_fund": 1.03,
-      "quantity": 1126965.0,
-      "market_value": 232019554.2,
+      "pct_of_fund": 1.05,
+      "quantity": 1132393.0,
+      "market_value": 233839154.5,
       "sector": ""
     },
     {
       "ticker": "GM",
       "name": "GENERAL MOTORS CO COMMON STOCK USD.01",
       "identifier": "37045V100",
-      "pct_of_fund": 1.03,
-      "quantity": 2823369.0,
-      "market_value": 231883295.97,
+      "pct_of_fund": 1.04,
+      "quantity": 2827670.0,
+      "market_value": 231162022.5,
       "sector": ""
     },
     {
       "ticker": "ALL",
       "name": "ALLSTATE CORP COMMON STOCK USD.01",
       "identifier": "020002101",
-      "pct_of_fund": 0.97,
-      "quantity": 819417.0,
-      "market_value": 218448378.03,
+      "pct_of_fund": 0.98,
+      "quantity": 820176.0,
+      "market_value": 218798351.52,
       "sector": ""
     },
     {
       "ticker": "RCL",
       "name": "ROYAL CARIBBEAN CRUISES LTD COMMON STOCK USD.01",
       "identifier": "V7780T103",
-      "pct_of_fund": 0.97,
-      "quantity": 680893.0,
-      "market_value": 218328340.45,
+      "pct_of_fund": 0.93,
+      "quantity": 682066.0,
+      "market_value": 206768307.9,
       "sector": ""
     },
     {
       "ticker": "ROST",
       "name": "ROSS STORES INC COMMON STOCK USD.01",
       "identifier": "778296103",
-      "pct_of_fund": 0.93,
-      "quantity": 923670.0,
-      "market_value": 210264238.8,
+      "pct_of_fund": 0.91,
+      "quantity": 925004.0,
+      "market_value": 203389879.52,
       "sector": ""
     },
     {
@@ -700,17 +700,17 @@
       "name": "MARATHON PETROLEUM CORP COMMON STOCK USD.01",
       "identifier": "56585A102",
       "pct_of_fund": 0.9,
-      "quantity": 544534.0,
-      "market_value": 203579481.24,
+      "quantity": 544948.0,
+      "market_value": 200502717.64,
       "sector": ""
     },
     {
       "ticker": "EOG",
       "name": "EOG RESOURCES INC COMMON STOCK USD.01",
       "identifier": "26875P101",
-      "pct_of_fund": 0.87,
+      "pct_of_fund": 0.88,
       "quantity": 1309088.0,
-      "market_value": 195957382.72,
+      "market_value": 195695565.12,
       "sector": ""
     },
     {
@@ -718,17 +718,17 @@
       "name": "UNITED PARCEL SERVICE CL B COMMON STOCK USD.01",
       "identifier": "911312106",
       "pct_of_fund": 0.86,
-      "quantity": 1749844.0,
-      "market_value": 194285179.32,
+      "quantity": 1754766.0,
+      "market_value": 191462518.26,
       "sector": ""
     },
     {
       "ticker": "DAL",
       "name": "DELTA AIR LINES INC COMMON STOCK USD.0001",
       "identifier": "247361702",
-      "pct_of_fund": 0.84,
-      "quantity": 2227032.0,
-      "market_value": 189030476.16,
+      "pct_of_fund": 0.83,
+      "quantity": 2229608.0,
+      "market_value": 185436497.36,
       "sector": ""
     },
     {
@@ -736,35 +736,26 @@
       "name": "WW GRAINGER INC COMMON STOCK USD.5",
       "identifier": "384802104",
       "pct_of_fund": 0.83,
-      "quantity": 129775.0,
-      "market_value": 187929773.0,
-      "sector": ""
-    },
-    {
-      "ticker": "COF",
-      "name": "CAPITAL ONE FINANCIAL CORP COMMON STOCK USD.01",
-      "identifier": "14040H105",
-      "pct_of_fund": 0.76,
-      "quantity": 934450.0,
-      "market_value": 172219135.0,
+      "quantity": 129913.0,
+      "market_value": 184980522.44,
       "sector": ""
     },
     {
       "ticker": "CB",
       "name": "CHUBB LTD COMMON STOCK",
       "identifier": "H1467J104",
-      "pct_of_fund": 0.76,
-      "quantity": 462818.0,
-      "market_value": 171714734.36,
+      "pct_of_fund": 0.8,
+      "quantity": 477777.0,
+      "market_value": 176830045.47,
       "sector": ""
     },
     {
-      "ticker": "QCOM",
-      "name": "QUALCOMM INC COMMON STOCK USD.0001",
-      "identifier": "747525103",
-      "pct_of_fund": 0.76,
-      "quantity": 1072268.0,
-      "market_value": 171359149.08,
+      "ticker": "COF",
+      "name": "CAPITAL ONE FINANCIAL CORP COMMON STOCK USD.01",
+      "identifier": "14040H105",
+      "pct_of_fund": 0.78,
+      "quantity": 951477.0,
+      "market_value": 172940459.52,
       "sector": ""
     },
     {
@@ -773,16 +764,25 @@
       "identifier": "87612G101",
       "pct_of_fund": 0.75,
       "quantity": 584132.0,
-      "market_value": 169497582.44,
+      "market_value": 166722955.44,
       "sector": ""
     },
     {
       "ticker": "FDX",
       "name": "FEDEX CORP COMMON STOCK USD.1",
       "identifier": "31428X106",
-      "pct_of_fund": 0.74,
-      "quantity": 527980.0,
-      "market_value": 168061313.8,
+      "pct_of_fund": 0.75,
+      "quantity": 528992.0,
+      "market_value": 166442042.88,
+      "sector": ""
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM INC COMMON STOCK USD.0001",
+      "identifier": "747525103",
+      "pct_of_fund": 0.75,
+      "quantity": 1025337.0,
+      "market_value": 166114847.37,
       "sector": ""
     },
     {
@@ -790,8 +790,8 @@
       "name": "WILLIAMS COS INC COMMON STOCK USD1.0",
       "identifier": "969457100",
       "pct_of_fund": 0.7,
-      "quantity": 2339183.0,
-      "market_value": 157263273.09,
+      "quantity": 2340862.0,
+      "market_value": 154801204.06,
       "sector": ""
     },
     {
@@ -799,35 +799,35 @@
       "name": "AMERIPRISE FINANCIAL INC COMMON STOCK USD.01",
       "identifier": "03076C106",
       "pct_of_fund": 0.68,
-      "quantity": 308057.0,
-      "market_value": 154465940.94,
+      "quantity": 308356.0,
+      "market_value": 151822160.16,
       "sector": ""
     },
     {
       "ticker": "CNC",
       "name": "CENTENE CORP COMMON STOCK USD.001",
       "identifier": "15135B101",
-      "pct_of_fund": 0.68,
-      "quantity": 2275142.0,
-      "market_value": 153458327.9,
+      "pct_of_fund": 0.67,
+      "quantity": 2276039.0,
+      "market_value": 149262637.62,
       "sector": ""
     },
     {
       "ticker": "DE",
       "name": "DEERE + CO COMMON STOCK USD1.0",
       "identifier": "244199105",
-      "pct_of_fund": 0.66,
+      "pct_of_fund": 0.65,
       "quantity": 230432.0,
-      "market_value": 148571032.0,
+      "market_value": 143994652.48,
       "sector": ""
     },
     {
       "ticker": "LNG",
       "name": "CHENIERE ENERGY INC COMMON STOCK USD.003",
       "identifier": "16411R208",
-      "pct_of_fund": 0.63,
-      "quantity": 478218.0,
-      "market_value": 141786854.82,
+      "pct_of_fund": 0.64,
+      "quantity": 478425.0,
+      "market_value": 141312392.25,
       "sector": ""
     },
     {
@@ -835,8 +835,8 @@
       "name": "CHIPOTLE MEXICAN GRILL INC COMMON STOCK USD.01",
       "identifier": "169656105",
       "pct_of_fund": 0.63,
-      "quantity": 3825275.0,
-      "market_value": 141343911.25,
+      "quantity": 3834705.0,
+      "market_value": 139199791.5,
       "sector": ""
     },
     {
@@ -844,26 +844,17 @@
       "name": "KROGER CO COMMON STOCK USD1.0",
       "identifier": "501044101",
       "pct_of_fund": 0.62,
-      "quantity": 2038448.0,
-      "market_value": 140754834.4,
+      "quantity": 2040725.0,
+      "market_value": 138646856.5,
       "sector": ""
     },
     {
       "ticker": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC COMMON STOCK USD.01",
       "identifier": "910047109",
-      "pct_of_fund": 0.62,
-      "quantity": 1293111.0,
-      "market_value": 139177536.93,
-      "sector": ""
-    },
-    {
-      "ticker": "CCL",
-      "name": "CARNIVAL CORP LTD COMMON STOCK USD.01",
-      "identifier": "G2004J103",
       "pct_of_fund": 0.61,
-      "quantity": 4773098.0,
-      "market_value": 138276649.06,
+      "quantity": 1295158.0,
+      "market_value": 136678023.74,
       "sector": ""
     },
     {
@@ -871,26 +862,26 @@
       "name": "PRUDENTIAL FINANCIAL INC COMMON STOCK USD.01",
       "identifier": "744320102",
       "pct_of_fund": 0.6,
-      "quantity": 1116161.0,
-      "market_value": 135658207.94,
-      "sector": ""
-    },
-    {
-      "ticker": "FCX",
-      "name": "FREEPORT MCMORAN INC COMMON STOCK USD.1",
-      "identifier": "35671D857",
-      "pct_of_fund": 0.6,
-      "quantity": 2615044.0,
-      "market_value": 134544013.8,
+      "quantity": 1117840.0,
+      "market_value": 134476152.0,
       "sector": ""
     },
     {
       "ticker": "CMCSA",
       "name": "COMCAST CORP CLASS A COMMON STOCK USD.01",
       "identifier": "20030N101",
+      "pct_of_fund": 0.6,
+      "quantity": 5323311.0,
+      "market_value": 132337511.46,
+      "sector": ""
+    },
+    {
+      "ticker": "CCL",
+      "name": "CARNIVAL CORP LTD COMMON STOCK USD.01",
+      "identifier": "G2004J103",
       "pct_of_fund": 0.59,
-      "quantity": 5317469.0,
-      "market_value": 134212917.56,
+      "quantity": 4781838.0,
+      "market_value": 131835273.66,
       "sector": ""
     },
     {
@@ -898,8 +889,17 @@
       "name": "VALERO ENERGY CORP COMMON STOCK USD.01",
       "identifier": "91913Y100",
       "pct_of_fund": 0.59,
-      "quantity": 387801.0,
-      "market_value": 133287203.7,
+      "quantity": 389250.0,
+      "market_value": 131745555.0,
+      "sector": ""
+    },
+    {
+      "ticker": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC COMMON STOCK USD.01",
+      "identifier": "416515104",
+      "pct_of_fund": 0.59,
+      "quantity": 962332.0,
+      "market_value": 130472972.56,
       "sector": ""
     }
   ]
